@@ -1,0 +1,1201 @@
+booking_id,hotel_type,total_rooms_available,rooms_booked,lead_time,arrival_month,weekend_nights,week_nights,average_daily_rate,cancellation_rate,no_show_rate,market_segment,booking_status
+1,Resort Hotel,200,312,280,Jul,2,6,146.93,0.54,0.33,Direct,Overbooking
+2,Resort Hotel,247,344,39,Jan,0,6,65.79,0.48,0.27,Offline,Overbooking
+3,Resort Hotel,179,292,328,Apr,2,8,110.68,0.29,0.23,Corporate,Overbooking
+4,Resort Hotel,149,170,297,Jan,2,13,149.4,0.29,0.21,Corporate,Overbooking
+5,City Hotel,105,200,214,Mar,4,2,349.09,0.2,0.02,Offline,Overbooking
+6,Resort Hotel,218,283,219,Dec,2,12,84.77,0.27,0.35,Travel Agent,Overbooking
+7,City Hotel,196,118,271,Apr,2,6,296.77,0.01,0.28,Direct,Underbooking
+8,City Hotel,273,216,240,Feb,4,13,166.1,0.4,0.14,Online,Optimal
+9,City Hotel,149,273,162,Oct,4,8,262.1,0.44,0.03,Corporate,Overbooking
+10,City Hotel,272,100,330,Nov,1,5,162.38,0.32,0.13,Travel Agent,Underbooking
+11,Resort Hotel,144,292,336,Nov,1,1,121.74,0.36,0.09,Online,Overbooking
+12,Resort Hotel,136,258,188,Nov,0,10,217.84,0.36,0.06,Travel Agent,Overbooking
+13,City Hotel,113,346,204,Nov,2,7,242.76,0.32,0.1,Direct,Overbooking
+14,Resort Hotel,134,209,319,Apr,0,11,79.48,0.08,0.26,Travel Agent,Overbooking
+15,Resort Hotel,285,262,153,Nov,0,4,98.09,0.2,0.09,Corporate,Optimal
+16,Resort Hotel,225,338,66,Feb,3,12,201.78,0.51,0.3,Online,Overbooking
+17,Resort Hotel,104,198,294,Oct,4,9,305.02,0.53,0.11,Travel Agent,Overbooking
+18,Resort Hotel,252,252,65,Sep,0,5,69.23,0.46,0.13,Online,Optimal
+19,Resort Hotel,135,161,4,Feb,0,11,255.29,0.58,0.21,Direct,Overbooking
+20,Resort Hotel,162,285,245,Aug,0,12,329.23,0.03,0.32,Online,Overbooking
+21,City Hotel,224,72,35,Mar,2,12,265.38,0.54,0.24,Online,Underbooking
+22,City Hotel,252,184,234,Jan,3,9,130.26,0.32,0.17,Corporate,Optimal
+23,Resort Hotel,128,125,275,May,0,2,97.85,0.14,0.09,Direct,Optimal
+24,City Hotel,130,225,39,May,2,4,141.06,0.19,0.14,Travel Agent,Overbooking
+25,City Hotel,272,307,183,Oct,1,7,344.16,0.59,0.06,Online,Overbooking
+26,Resort Hotel,176,170,139,Apr,0,5,385.12,0.45,0.03,Travel Agent,Optimal
+27,Resort Hotel,220,103,180,Apr,2,3,335.26,0.18,0.27,Offline,Underbooking
+28,Resort Hotel,181,227,306,Apr,3,8,142.79,0.59,0.19,Offline,Overbooking
+29,City Hotel,214,346,114,Dec,0,3,91.06,0.37,0.08,Travel Agent,Overbooking
+30,City Hotel,296,242,317,Jun,2,13,60.74,0.54,0.28,Offline,Optimal
+31,City Hotel,298,241,53,Mar,4,9,350.43,0.03,0.14,Direct,Optimal
+32,City Hotel,128,272,363,Jul,4,11,97.27,0.16,0.04,Travel Agent,Overbooking
+33,Resort Hotel,239,173,49,Nov,1,11,156.47,0.47,0.1,Offline,Optimal
+34,Resort Hotel,222,301,321,Feb,2,1,216.26,0.58,0.11,Corporate,Overbooking
+35,City Hotel,261,173,151,Oct,1,13,380.67,0.48,0.23,Travel Agent,Optimal
+36,City Hotel,298,138,13,Apr,0,5,165.86,0.29,0.32,Travel Agent,Underbooking
+37,City Hotel,88,115,48,May,3,1,137.88,0.6,0.05,Corporate,Overbooking
+38,City Hotel,108,92,341,Nov,3,5,306.54,0.08,0.17,Travel Agent,Optimal
+39,City Hotel,132,225,314,Jan,2,3,231.64,0.02,0.21,Offline,Overbooking
+40,Resort Hotel,179,270,238,Aug,1,11,231.68,0.28,0.31,Corporate,Overbooking
+41,Resort Hotel,123,237,176,Jun,1,2,350.92,0.49,0.03,Corporate,Overbooking
+42,Resort Hotel,297,222,8,Dec,3,4,318.81,0.38,0.2,Travel Agent,Optimal
+43,Resort Hotel,285,274,226,Sep,0,7,251.79,0.43,0.15,Corporate,Optimal
+44,City Hotel,293,150,121,Mar,1,10,125.54,0.55,0.32,Corporate,Underbooking
+45,City Hotel,162,104,32,Apr,1,11,307.42,0.39,0.01,Offline,Underbooking
+46,City Hotel,118,154,225,Nov,1,2,275.26,0.48,0.06,Online,Overbooking
+47,City Hotel,177,249,255,Sep,0,11,189.56,0.36,0.08,Direct,Overbooking
+48,Resort Hotel,158,219,201,Sep,3,7,226.19,0.29,0.28,Online,Overbooking
+49,Resort Hotel,157,254,18,Dec,3,11,242.07,0.09,0.11,Online,Overbooking
+50,Resort Hotel,252,332,21,Jan,1,13,157.63,0.14,0.01,Direct,Overbooking
+51,Resort Hotel,289,326,334,Mar,4,8,335.23,0.22,0.22,Travel Agent,Overbooking
+52,Resort Hotel,121,168,248,Sep,4,4,124.46,0.6,0.15,Online,Overbooking
+53,Resort Hotel,268,215,149,Jan,2,3,117.29,0.23,0,Travel Agent,Optimal
+54,City Hotel,144,342,175,Jun,0,9,207.69,0.26,0.13,Travel Agent,Overbooking
+55,City Hotel,252,87,129,Nov,2,5,259.3,0.26,0.3,Travel Agent,Underbooking
+56,City Hotel,249,270,132,Jun,3,10,387.95,0,0.04,Travel Agent,Overbooking
+57,City Hotel,125,158,287,Jun,0,8,139.1,0.57,0,Online,Overbooking
+58,Resort Hotel,234,267,78,Jun,2,11,232.28,0.43,0.29,Direct,Overbooking
+59,Resort Hotel,266,93,189,Jul,1,7,346.66,0.44,0.01,Travel Agent,Underbooking
+60,City Hotel,147,165,289,Dec,4,8,152.16,0.55,0.27,Direct,Overbooking
+61,Resort Hotel,94,145,60,Jun,4,5,142.9,0.01,0.35,Corporate,Overbooking
+62,Resort Hotel,119,161,261,Dec,2,6,125.8,0.33,0.11,Travel Agent,Overbooking
+63,City Hotel,162,258,341,Jun,0,6,295.61,0.04,0.25,Online,Overbooking
+64,Resort Hotel,165,234,20,Aug,2,3,91.36,0.5,0.06,Travel Agent,Overbooking
+65,Resort Hotel,283,241,291,Jul,0,3,148.11,0.34,0.07,Corporate,Optimal
+66,Resort Hotel,275,62,16,Aug,2,9,373.47,0.08,0.29,Corporate,Underbooking
+67,Resort Hotel,134,217,192,Feb,4,10,234.21,0.29,0.3,Direct,Overbooking
+68,City Hotel,147,202,146,Mar,4,5,177.41,0.29,0.21,Corporate,Overbooking
+69,City Hotel,130,50,40,Dec,4,3,398.75,0.32,0.08,Online,Underbooking
+70,Resort Hotel,111,317,191,Sep,2,8,180.88,0.15,0.3,Online,Overbooking
+71,Resort Hotel,152,212,23,Nov,0,13,297.39,0.49,0.05,Direct,Overbooking
+72,City Hotel,181,269,297,May,2,9,120.47,0.15,0.04,Direct,Overbooking
+73,Resort Hotel,198,301,287,Jul,0,8,157.89,0.23,0.29,Online,Overbooking
+74,City Hotel,215,185,338,May,3,8,71.41,0.22,0.2,Travel Agent,Optimal
+75,City Hotel,270,288,209,Jan,2,7,372.98,0.49,0.13,Travel Agent,Overbooking
+76,Resort Hotel,105,230,333,May,4,2,213.27,0.43,0.06,Offline,Overbooking
+77,City Hotel,245,149,202,Nov,1,8,277.24,0.49,0.35,Offline,Underbooking
+78,Resort Hotel,187,172,148,Jun,0,11,221.86,0.22,0.01,Direct,Optimal
+79,City Hotel,294,167,67,Jan,2,6,317.45,0.36,0.21,Corporate,Underbooking
+80,Resort Hotel,119,71,336,Sep,1,2,133.02,0.11,0.16,Offline,Underbooking
+81,City Hotel,205,104,118,Jun,3,3,334.21,0.31,0.2,Travel Agent,Underbooking
+82,City Hotel,105,135,349,Apr,2,4,178.97,0.45,0.33,Online,Overbooking
+83,Resort Hotel,164,118,151,Aug,1,2,100.75,0.3,0.13,Travel Agent,Optimal
+84,Resort Hotel,299,62,187,Jan,3,9,365.68,0.28,0.05,Corporate,Underbooking
+85,Resort Hotel,293,102,152,Aug,3,8,160.88,0.2,0.21,Travel Agent,Underbooking
+86,Resort Hotel,122,271,152,Dec,4,9,276.36,0.3,0.28,Travel Agent,Overbooking
+87,Resort Hotel,216,158,287,Jan,3,2,371.53,0.6,0.17,Direct,Optimal
+88,Resort Hotel,136,263,354,Dec,0,1,265.25,0.19,0.22,Online,Overbooking
+89,City Hotel,168,311,32,Dec,2,2,128.99,0.42,0.26,Corporate,Overbooking
+90,City Hotel,181,301,237,Apr,1,4,355.85,0.23,0.17,Corporate,Overbooking
+91,Resort Hotel,84,205,177,Aug,0,1,382.71,0.09,0.27,Direct,Overbooking
+92,Resort Hotel,180,331,238,Jan,2,11,264.84,0.09,0.18,Corporate,Overbooking
+93,City Hotel,223,215,232,Mar,4,9,81.5,0.49,0.08,Online,Optimal
+94,Resort Hotel,116,299,3,Dec,2,10,293.02,0.06,0.32,Online,Overbooking
+95,Resort Hotel,224,233,228,Aug,4,12,296.85,0.02,0.32,Travel Agent,Overbooking
+96,City Hotel,211,82,111,Dec,0,11,273.48,0.5,0.2,Online,Underbooking
+97,City Hotel,88,129,240,Jan,0,6,187.13,0.3,0.1,Offline,Overbooking
+98,City Hotel,96,95,317,Feb,1,12,186.73,0.03,0.14,Corporate,Optimal
+99,Resort Hotel,172,187,288,Sep,0,9,269.67,0.26,0.25,Online,Overbooking
+100,Resort Hotel,208,319,283,Jul,2,4,326.94,0.18,0.31,Corporate,Overbooking
+101,Resort Hotel,150,199,286,Mar,4,3,173.79,0.24,0.31,Corporate,Overbooking
+102,Resort Hotel,148,173,173,May,2,10,120.19,0.26,0.29,Travel Agent,Overbooking
+103,Resort Hotel,269,66,176,Sep,2,2,174.21,0.01,0.18,Offline,Underbooking
+104,Resort Hotel,220,308,229,Oct,4,6,71.89,0.44,0.28,Corporate,Overbooking
+105,City Hotel,157,161,10,Apr,1,5,300.93,0.32,0.09,Travel Agent,Overbooking
+106,Resort Hotel,272,121,205,Jul,1,2,166.7,0.19,0.27,Offline,Underbooking
+107,City Hotel,105,242,353,Apr,0,7,117,0.5,0.23,Online,Overbooking
+108,Resort Hotel,97,86,213,Jul,3,8,245.67,0.48,0.27,Direct,Optimal
+109,Resort Hotel,170,171,271,Dec,3,12,68.46,0.45,0.06,Direct,Overbooking
+110,City Hotel,162,319,73,Jun,3,12,298.93,0.06,0.09,Corporate,Overbooking
+111,City Hotel,95,163,207,Feb,1,10,166.93,0.07,0.12,Online,Overbooking
+112,Resort Hotel,198,173,144,Sep,1,11,99.46,0.07,0.08,Online,Optimal
+113,City Hotel,110,322,232,Jul,3,4,105.41,0.55,0.13,Direct,Overbooking
+114,Resort Hotel,251,314,178,Nov,4,6,335.51,0.55,0.25,Offline,Overbooking
+115,City Hotel,244,318,322,Oct,4,9,394.58,0.3,0.2,Corporate,Overbooking
+116,City Hotel,198,90,210,Dec,2,5,196.12,0.21,0.16,Corporate,Underbooking
+117,City Hotel,149,320,164,Jul,3,1,81.33,0.21,0.18,Corporate,Overbooking
+118,City Hotel,206,242,181,Feb,0,2,69.61,0.38,0.14,Offline,Overbooking
+119,Resort Hotel,85,148,252,Nov,2,3,362.23,0.54,0.21,Online,Overbooking
+120,Resort Hotel,122,196,235,Apr,1,7,331.58,0.21,0.13,Travel Agent,Overbooking
+121,City Hotel,260,338,303,Jun,0,7,136.71,0.37,0.05,Travel Agent,Overbooking
+122,City Hotel,225,164,61,Aug,1,13,355.84,0.17,0.3,Online,Optimal
+123,Resort Hotel,198,249,304,Aug,1,11,126.8,0.22,0.27,Direct,Overbooking
+124,Resort Hotel,122,141,167,Jul,1,2,145.5,0.4,0.06,Direct,Overbooking
+125,Resort Hotel,163,61,44,Feb,1,7,151.37,0.22,0.15,Online,Underbooking
+126,Resort Hotel,247,195,323,Jan,2,12,112.48,0.02,0.06,Corporate,Optimal
+127,City Hotel,274,247,148,Jan,1,1,152.71,0.24,0.09,Corporate,Optimal
+128,City Hotel,132,249,179,Dec,1,10,238.31,0.16,0.2,Travel Agent,Overbooking
+129,City Hotel,213,335,202,Apr,1,6,346.26,0.03,0.22,Direct,Overbooking
+130,Resort Hotel,280,58,97,Jun,1,8,233.4,0.26,0.09,Travel Agent,Underbooking
+131,City Hotel,168,179,361,Nov,0,10,179.19,0.53,0,Travel Agent,Overbooking
+132,City Hotel,167,197,281,May,3,11,89.88,0.09,0.16,Direct,Overbooking
+133,City Hotel,208,61,165,Mar,0,3,90.22,0.16,0.05,Direct,Underbooking
+134,City Hotel,266,328,46,Jun,3,2,202.48,0.44,0,Corporate,Overbooking
+135,City Hotel,270,137,128,Sep,4,11,330.82,0.16,0.31,Direct,Underbooking
+136,Resort Hotel,298,279,175,May,1,1,313.24,0.58,0.24,Travel Agent,Optimal
+137,City Hotel,274,327,150,Mar,4,2,192.56,0.55,0.13,Direct,Overbooking
+138,Resort Hotel,140,133,22,Jul,3,2,321.38,0.18,0.27,Direct,Optimal
+139,City Hotel,129,252,37,Jun,4,7,240.78,0.17,0.35,Corporate,Overbooking
+140,Resort Hotel,110,214,172,May,4,1,187.68,0.22,0.07,Online,Overbooking
+141,City Hotel,123,286,143,Aug,3,10,327.23,0.08,0.3,Online,Overbooking
+142,Resort Hotel,264,258,152,Mar,4,8,164.56,0.5,0.35,Online,Optimal
+143,City Hotel,132,65,207,Jul,2,6,231.48,0.38,0.12,Online,Underbooking
+144,City Hotel,262,284,93,Jun,3,1,317.54,0.3,0.12,Travel Agent,Overbooking
+145,Resort Hotel,271,166,261,Oct,1,11,324.21,0.54,0.3,Corporate,Underbooking
+146,Resort Hotel,260,157,363,May,0,4,231.51,0.35,0.18,Offline,Underbooking
+147,City Hotel,162,194,330,Feb,0,3,339.6,0.35,0.11,Offline,Overbooking
+148,Resort Hotel,82,236,236,Dec,4,2,340.92,0.25,0.15,Online,Overbooking
+149,Resort Hotel,135,139,337,May,3,13,312.81,0.08,0.35,Travel Agent,Overbooking
+150,Resort Hotel,277,287,251,Sep,0,1,236.48,0.02,0.3,Direct,Overbooking
+151,Resort Hotel,171,89,241,Aug,4,7,203.53,0.51,0,Corporate,Underbooking
+152,Resort Hotel,278,274,23,Jan,1,11,315.11,0.18,0.16,Direct,Optimal
+153,City Hotel,134,187,216,Dec,1,5,81.69,0.47,0.12,Offline,Overbooking
+154,City Hotel,109,198,336,Feb,3,4,175.03,0.04,0.19,Direct,Overbooking
+155,City Hotel,157,347,239,May,1,4,117.79,0.43,0.17,Online,Overbooking
+156,Resort Hotel,152,334,205,May,2,9,64.6,0.32,0.2,Travel Agent,Overbooking
+157,City Hotel,90,191,263,Jan,1,9,286.87,0.5,0.16,Offline,Overbooking
+158,City Hotel,132,199,175,Dec,1,6,77.59,0.49,0.26,Offline,Overbooking
+159,Resort Hotel,147,189,323,Oct,1,10,304.99,0.19,0.2,Offline,Overbooking
+160,Resort Hotel,197,111,47,Mar,3,10,344.46,0.05,0.23,Offline,Underbooking
+161,Resort Hotel,145,256,124,Aug,2,9,121.86,0.57,0.28,Corporate,Overbooking
+162,City Hotel,185,196,272,Jun,2,12,220.1,0.11,0.02,Corporate,Overbooking
+163,Resort Hotel,144,263,191,Jun,0,8,242.94,0.52,0.01,Corporate,Overbooking
+164,City Hotel,297,219,26,Jan,3,11,399.16,0.26,0.32,Offline,Optimal
+165,City Hotel,289,83,261,Oct,4,9,249.8,0.47,0.27,Travel Agent,Underbooking
+166,City Hotel,247,94,121,Apr,4,12,66.4,0.37,0.33,Offline,Underbooking
+167,City Hotel,219,205,184,Aug,3,5,61.4,0.03,0.14,Direct,Optimal
+168,City Hotel,192,148,126,Feb,3,8,270.5,0.54,0.16,Direct,Optimal
+169,City Hotel,163,285,38,Nov,1,6,114.11,0.2,0.3,Corporate,Overbooking
+170,City Hotel,224,79,243,Dec,3,10,302.59,0.07,0.05,Travel Agent,Underbooking
+171,Resort Hotel,290,75,161,May,3,9,221.73,0.42,0.34,Corporate,Underbooking
+172,Resort Hotel,152,100,50,Mar,1,8,106.16,0.31,0.17,Travel Agent,Optimal
+173,Resort Hotel,231,104,0,Oct,1,7,296.25,0.07,0.06,Online,Underbooking
+174,Resort Hotel,280,116,32,Aug,3,10,209.5,0.26,0.19,Corporate,Underbooking
+175,Resort Hotel,264,65,58,Apr,2,5,178.36,0.23,0.03,Offline,Underbooking
+176,City Hotel,270,117,107,Oct,0,10,297.81,0.19,0.32,Direct,Underbooking
+177,City Hotel,217,257,102,Apr,3,4,135.75,0.3,0.02,Corporate,Overbooking
+178,Resort Hotel,296,167,88,Sep,1,1,256.26,0.19,0.31,Corporate,Underbooking
+179,Resort Hotel,169,199,118,Apr,4,9,106.06,0.04,0.3,Offline,Overbooking
+180,Resort Hotel,293,119,98,Jan,3,3,263.79,0.14,0.05,Online,Underbooking
+181,City Hotel,153,191,66,Mar,3,8,129.23,0.05,0.24,Corporate,Overbooking
+182,Resort Hotel,239,264,317,Aug,1,2,264.72,0.27,0.05,Direct,Overbooking
+183,Resort Hotel,175,101,38,Mar,4,4,356.4,0.26,0.3,Online,Underbooking
+184,Resort Hotel,185,296,249,May,4,2,311.23,0.54,0.04,Travel Agent,Overbooking
+185,Resort Hotel,282,201,127,Jun,1,4,146.88,0.18,0.09,Online,Optimal
+186,City Hotel,195,169,108,Mar,1,7,147.26,0.41,0.05,Direct,Optimal
+187,City Hotel,184,63,107,Jul,3,3,239.17,0.43,0.02,Direct,Underbooking
+188,Resort Hotel,295,82,114,Oct,4,2,192.04,0.12,0.1,Online,Underbooking
+189,City Hotel,171,260,364,Jan,2,6,230.81,0.54,0.19,Corporate,Overbooking
+190,City Hotel,116,155,255,Dec,4,12,338.54,0.42,0.17,Corporate,Overbooking
+191,Resort Hotel,174,315,116,Jul,4,1,362.14,0.09,0.06,Online,Overbooking
+192,Resort Hotel,195,197,204,Nov,0,1,89.67,0,0.32,Online,Overbooking
+193,City Hotel,81,158,337,May,2,7,281.32,0.38,0.05,Direct,Overbooking
+194,City Hotel,245,284,124,Jan,0,13,209.68,0.32,0.03,Travel Agent,Overbooking
+195,Resort Hotel,261,127,63,Aug,1,12,275.99,0.04,0.08,Travel Agent,Underbooking
+196,Resort Hotel,292,174,156,Feb,1,4,184.72,0.41,0.31,Direct,Underbooking
+197,City Hotel,199,241,284,Feb,1,9,144.18,0.49,0.29,Offline,Overbooking
+198,City Hotel,143,157,141,Dec,4,7,363.89,0.04,0.04,Offline,Overbooking
+199,City Hotel,291,344,289,Apr,0,6,327.6,0.53,0.34,Corporate,Overbooking
+200,City Hotel,197,189,157,Nov,0,10,188.42,0.15,0.02,Online,Optimal
+201,City Hotel,143,223,176,Feb,4,4,232.96,0.35,0.03,Corporate,Overbooking
+202,City Hotel,206,290,310,Feb,3,5,218.83,0.1,0.16,Corporate,Overbooking
+203,City Hotel,200,197,245,Oct,1,10,280.63,0.32,0.04,Corporate,Optimal
+204,Resort Hotel,127,104,59,Feb,2,8,382.11,0.2,0.06,Direct,Optimal
+205,Resort Hotel,237,293,296,Nov,4,9,214.56,0.29,0.12,Direct,Overbooking
+206,City Hotel,212,173,200,Apr,1,1,213.04,0.15,0.22,Corporate,Optimal
+207,City Hotel,239,174,225,Jul,3,2,276.55,0.01,0.35,Travel Agent,Optimal
+208,City Hotel,263,284,201,Sep,0,4,240.01,0.17,0.13,Direct,Overbooking
+209,Resort Hotel,248,267,252,Dec,1,8,86.64,0.36,0.15,Offline,Overbooking
+210,City Hotel,189,196,186,Oct,0,10,287.01,0.22,0.32,Direct,Overbooking
+211,Resort Hotel,260,69,15,Apr,2,4,328.31,0.21,0.18,Online,Underbooking
+212,Resort Hotel,241,257,87,Jul,2,8,334.51,0.52,0.32,Online,Overbooking
+213,Resort Hotel,142,171,333,Nov,0,10,389.71,0.3,0.27,Travel Agent,Overbooking
+214,Resort Hotel,174,135,36,Dec,1,1,204.4,0.04,0.06,Travel Agent,Optimal
+215,Resort Hotel,198,161,82,Feb,0,4,75.25,0.36,0.24,Corporate,Optimal
+216,City Hotel,210,151,296,May,0,5,281.46,0.56,0.05,Offline,Optimal
+217,Resort Hotel,284,124,122,Apr,3,13,343.3,0.31,0.21,Online,Underbooking
+218,City Hotel,258,166,20,Apr,3,3,120.95,0.22,0.22,Travel Agent,Underbooking
+219,City Hotel,156,118,98,Jan,3,1,244.05,0.16,0.23,Direct,Optimal
+220,Resort Hotel,249,254,354,Jul,3,12,268,0.17,0.29,Offline,Overbooking
+221,Resort Hotel,151,294,131,Apr,0,9,189.77,0.07,0.09,Offline,Overbooking
+222,City Hotel,159,76,95,May,1,3,296.41,0.19,0.21,Online,Underbooking
+223,City Hotel,97,152,218,May,2,4,73.2,0.27,0.02,Corporate,Overbooking
+224,Resort Hotel,199,332,166,Dec,4,8,245.93,0.29,0.04,Travel Agent,Overbooking
+225,City Hotel,288,273,249,Dec,3,8,264.77,0.4,0.34,Offline,Optimal
+226,Resort Hotel,148,260,129,Nov,3,9,275.18,0.31,0.26,Corporate,Overbooking
+227,Resort Hotel,118,179,349,Aug,2,3,314.26,0.14,0.04,Offline,Overbooking
+228,City Hotel,164,59,74,Mar,1,10,193.89,0.43,0.35,Direct,Underbooking
+229,Resort Hotel,221,160,68,Oct,4,7,153.46,0.51,0.32,Online,Optimal
+230,Resort Hotel,173,298,244,Nov,2,9,218.16,0.54,0.08,Offline,Overbooking
+231,City Hotel,137,147,143,Jul,4,10,142.01,0.51,0.3,Corporate,Overbooking
+232,Resort Hotel,116,268,220,Apr,4,12,149,0.37,0.19,Offline,Overbooking
+233,Resort Hotel,200,129,53,Nov,3,8,252.53,0.15,0.07,Direct,Underbooking
+234,Resort Hotel,115,214,157,Dec,4,4,349.04,0.02,0.01,Corporate,Overbooking
+235,Resort Hotel,184,314,35,Jan,2,9,77.28,0.26,0.22,Online,Overbooking
+236,City Hotel,209,277,272,Apr,4,7,327.73,0.44,0.06,Corporate,Overbooking
+237,City Hotel,147,313,29,Aug,4,2,370.03,0.44,0.04,Online,Overbooking
+238,Resort Hotel,209,92,67,Oct,1,11,125.38,0.14,0.12,Offline,Underbooking
+239,City Hotel,231,320,83,Dec,1,4,105.73,0.33,0.32,Online,Overbooking
+240,Resort Hotel,141,173,161,Oct,0,4,74.6,0.36,0.23,Direct,Overbooking
+241,Resort Hotel,257,164,9,Oct,3,4,131.08,0.34,0.32,Online,Underbooking
+242,Resort Hotel,165,247,122,Dec,4,5,362.51,0.07,0.15,Corporate,Overbooking
+243,Resort Hotel,230,99,178,Oct,3,6,264.3,0.34,0.24,Corporate,Underbooking
+244,City Hotel,167,74,86,Oct,3,13,249.32,0.21,0.3,Travel Agent,Underbooking
+245,Resort Hotel,270,57,309,Nov,0,11,182.65,0.25,0.08,Corporate,Underbooking
+246,City Hotel,269,265,111,Jun,2,11,238.01,0.26,0.04,Offline,Optimal
+247,Resort Hotel,262,137,119,Oct,2,7,358.89,0.47,0.02,Online,Underbooking
+248,Resort Hotel,81,286,34,Dec,4,3,76.6,0.5,0.01,Corporate,Overbooking
+249,City Hotel,292,346,236,Sep,1,8,65.55,0.4,0.17,Corporate,Overbooking
+250,City Hotel,119,321,301,Aug,1,11,349.7,0.19,0.01,Direct,Overbooking
+251,Resort Hotel,225,204,181,Jun,4,11,313.34,0.27,0.17,Offline,Optimal
+252,Resort Hotel,128,182,290,Dec,4,2,329.39,0.54,0.32,Online,Overbooking
+253,City Hotel,247,271,168,Feb,2,6,306.92,0.41,0.11,Corporate,Overbooking
+254,City Hotel,171,305,172,Jan,4,2,233.93,0.04,0.33,Offline,Overbooking
+255,Resort Hotel,113,215,9,Apr,3,4,157.18,0.54,0.01,Corporate,Overbooking
+256,Resort Hotel,145,169,67,Dec,1,8,204.19,0.39,0.14,Offline,Overbooking
+257,City Hotel,123,210,179,Feb,4,11,158.99,0.43,0.25,Online,Overbooking
+258,City Hotel,147,244,362,Mar,1,3,303.9,0.14,0.29,Online,Overbooking
+259,City Hotel,267,338,161,Sep,1,8,87.73,0.48,0.3,Offline,Overbooking
+260,City Hotel,153,279,54,Jul,1,1,322.07,0.27,0.12,Travel Agent,Overbooking
+261,Resort Hotel,150,251,81,Dec,1,4,127.61,0.09,0.04,Online,Overbooking
+262,Resort Hotel,281,100,179,Sep,1,1,180.58,0.5,0.15,Travel Agent,Underbooking
+263,City Hotel,226,70,128,Feb,1,10,387.95,0.6,0.21,Online,Underbooking
+264,Resort Hotel,193,267,56,Mar,3,1,317.55,0.31,0.33,Online,Overbooking
+265,City Hotel,236,128,301,Jul,0,6,316.75,0.14,0.22,Corporate,Underbooking
+266,Resort Hotel,87,293,348,Mar,2,8,127.27,0.57,0.27,Travel Agent,Overbooking
+267,City Hotel,230,326,112,Jun,3,2,155.32,0.11,0.07,Online,Overbooking
+268,Resort Hotel,150,52,154,Nov,1,7,384.8,0.53,0.3,Direct,Underbooking
+269,City Hotel,122,74,224,Mar,2,1,243.31,0.52,0.29,Offline,Underbooking
+270,Resort Hotel,176,167,159,Oct,4,7,253.21,0.22,0.16,Online,Optimal
+271,Resort Hotel,296,150,34,Dec,1,13,335.55,0.32,0.1,Online,Underbooking
+272,Resort Hotel,104,111,21,Feb,1,9,293.83,0.34,0.25,Travel Agent,Overbooking
+273,City Hotel,197,345,294,Dec,2,12,252.43,0.04,0.02,Direct,Overbooking
+274,City Hotel,293,162,185,Jun,4,1,308.7,0.22,0.05,Offline,Underbooking
+275,Resort Hotel,116,300,203,Aug,4,8,193.49,0.42,0.31,Direct,Overbooking
+276,City Hotel,203,89,158,Nov,3,12,335.76,0.52,0.3,Direct,Underbooking
+277,City Hotel,252,65,2,Aug,0,6,114.94,0.45,0.11,Offline,Underbooking
+278,Resort Hotel,92,225,263,May,3,10,327.09,0.39,0.05,Online,Overbooking
+279,City Hotel,201,72,273,Jan,4,13,143.99,0.41,0.2,Direct,Underbooking
+280,City Hotel,117,239,160,Jul,3,9,88.63,0.13,0.17,Offline,Overbooking
+281,Resort Hotel,220,145,90,Oct,1,1,123.12,0.54,0.29,Online,Optimal
+282,Resort Hotel,191,208,353,Apr,0,9,306.68,0.13,0.3,Offline,Overbooking
+283,Resort Hotel,296,160,117,May,2,1,94.97,0.32,0.06,Corporate,Underbooking
+284,Resort Hotel,288,163,47,Jan,0,3,389.56,0.43,0.15,Travel Agent,Underbooking
+285,Resort Hotel,297,60,4,May,1,11,120.79,0.34,0.14,Travel Agent,Underbooking
+286,City Hotel,191,338,187,Nov,2,13,117.37,0.33,0.06,Travel Agent,Overbooking
+287,Resort Hotel,254,197,306,Mar,4,4,69.23,0.04,0.1,Corporate,Optimal
+288,City Hotel,191,192,273,Feb,3,13,286.07,0.45,0.31,Corporate,Overbooking
+289,City Hotel,151,97,223,Mar,1,4,166.26,0.05,0.03,Direct,Underbooking
+290,Resort Hotel,256,282,247,May,1,10,99.45,0.43,0.23,Online,Overbooking
+291,Resort Hotel,156,84,146,Jun,4,2,253.59,0.37,0.11,Direct,Underbooking
+292,City Hotel,233,347,78,Jun,4,2,68.19,0.06,0.17,Travel Agent,Overbooking
+293,City Hotel,150,104,16,Aug,1,10,166.14,0.29,0.1,Direct,Optimal
+294,City Hotel,291,238,76,Oct,3,5,361.05,0.35,0.07,Direct,Optimal
+295,City Hotel,85,317,88,Feb,0,12,379.2,0.31,0.28,Direct,Overbooking
+296,City Hotel,178,139,92,Mar,4,10,255.7,0.58,0.33,Direct,Optimal
+297,Resort Hotel,86,54,261,May,0,6,185.13,0.19,0.28,Direct,Underbooking
+298,Resort Hotel,94,160,216,Dec,0,2,123.2,0.08,0.15,Online,Overbooking
+299,Resort Hotel,151,173,187,Jan,2,11,213.43,0.47,0.02,Travel Agent,Overbooking
+300,City Hotel,285,92,23,May,2,7,205.16,0.53,0.26,Offline,Underbooking
+301,City Hotel,175,146,254,Jul,2,10,292.91,0.15,0.34,Corporate,Optimal
+302,City Hotel,270,313,73,Apr,2,6,258.86,0.45,0.14,Offline,Overbooking
+303,City Hotel,278,171,174,Jun,1,3,215.54,0.56,0.05,Travel Agent,Underbooking
+304,City Hotel,222,295,210,Aug,1,11,347,0.52,0.02,Travel Agent,Overbooking
+305,City Hotel,155,255,89,Aug,2,8,76.24,0.4,0.23,Direct,Overbooking
+306,Resort Hotel,275,312,283,Oct,3,1,283.9,0.19,0.34,Travel Agent,Overbooking
+307,Resort Hotel,136,214,187,Jul,2,9,132.79,0.26,0.08,Travel Agent,Overbooking
+308,City Hotel,105,123,324,Dec,4,6,291.33,0.54,0.07,Travel Agent,Overbooking
+309,City Hotel,124,289,275,Oct,3,4,375.54,0.32,0.16,Direct,Overbooking
+310,City Hotel,158,270,145,Nov,0,10,346.28,0.28,0.11,Online,Overbooking
+311,Resort Hotel,200,169,280,Aug,0,1,142.39,0.56,0.32,Corporate,Optimal
+312,City Hotel,246,106,205,Dec,2,1,341.65,0.34,0.3,Direct,Underbooking
+313,Resort Hotel,170,170,218,May,0,9,396.83,0.24,0.03,Corporate,Optimal
+314,Resort Hotel,152,205,232,Apr,2,2,191.41,0.42,0,Offline,Overbooking
+315,Resort Hotel,83,73,73,Dec,4,12,303.02,0.15,0.34,Offline,Optimal
+316,City Hotel,164,297,123,Jun,4,1,213.44,0.3,0.19,Direct,Overbooking
+317,City Hotel,189,191,40,Jun,4,2,296.79,0.3,0.18,Online,Overbooking
+318,City Hotel,281,73,98,May,3,12,129.28,0.18,0.29,Online,Underbooking
+319,City Hotel,244,309,345,Sep,0,6,382.01,0.07,0.27,Corporate,Overbooking
+320,City Hotel,253,287,32,Apr,0,10,300.61,0.28,0.05,Online,Overbooking
+321,Resort Hotel,279,230,338,Feb,2,9,151.62,0.41,0.3,Travel Agent,Optimal
+322,City Hotel,125,130,208,Jan,4,10,80.85,0.18,0.15,Direct,Overbooking
+323,City Hotel,242,287,84,Feb,0,3,245.95,0.14,0.01,Travel Agent,Overbooking
+324,City Hotel,282,226,175,Jun,0,3,219.77,0.44,0.06,Online,Optimal
+325,Resort Hotel,277,74,200,Sep,2,9,348.41,0.56,0.32,Corporate,Underbooking
+326,Resort Hotel,133,213,178,May,1,3,152.15,0.33,0.33,Offline,Overbooking
+327,City Hotel,165,159,0,Mar,0,9,192.45,0.42,0.22,Travel Agent,Optimal
+328,Resort Hotel,234,120,162,Apr,3,12,114.39,0.12,0.02,Corporate,Underbooking
+329,City Hotel,256,113,198,Jul,3,13,326.69,0.44,0.21,Corporate,Underbooking
+330,City Hotel,196,265,305,May,3,6,321.61,0.26,0.19,Travel Agent,Overbooking
+331,Resort Hotel,252,83,181,Apr,2,1,214.04,0.38,0.33,Offline,Underbooking
+332,City Hotel,84,117,206,May,3,12,331.96,0.34,0.35,Corporate,Overbooking
+333,City Hotel,199,186,122,Jan,4,9,267.09,0.32,0.3,Offline,Optimal
+334,City Hotel,298,276,338,Aug,0,5,332.03,0.27,0.04,Travel Agent,Optimal
+335,Resort Hotel,176,81,302,Jul,3,3,137.09,0.27,0.23,Offline,Underbooking
+336,Resort Hotel,235,161,221,Nov,4,8,358.79,0.23,0.09,Online,Optimal
+337,City Hotel,276,274,16,Feb,3,4,123.83,0.57,0.02,Travel Agent,Optimal
+338,City Hotel,234,195,313,Oct,4,13,328.75,0.51,0.07,Online,Optimal
+339,Resort Hotel,163,304,299,May,2,5,203.49,0.21,0.1,Direct,Overbooking
+340,City Hotel,286,129,212,Apr,1,13,147.86,0.46,0.26,Direct,Underbooking
+341,Resort Hotel,162,228,16,Dec,2,3,214,0.59,0.32,Direct,Overbooking
+342,Resort Hotel,247,86,338,Mar,0,2,273.56,0.34,0.29,Corporate,Underbooking
+343,Resort Hotel,115,130,340,Jan,2,6,369.41,0.08,0.09,Corporate,Overbooking
+344,Resort Hotel,96,197,315,May,2,12,73.35,0.15,0.33,Online,Overbooking
+345,City Hotel,187,310,338,Mar,0,10,202.33,0.13,0.22,Online,Overbooking
+346,Resort Hotel,169,251,155,Aug,4,10,251.47,0.31,0.1,Corporate,Overbooking
+347,City Hotel,252,131,230,Jan,4,8,322.9,0.41,0.23,Offline,Underbooking
+348,City Hotel,170,240,205,Aug,0,4,385.96,0.18,0.22,Travel Agent,Overbooking
+349,Resort Hotel,247,344,339,Sep,1,12,182.24,0.52,0.34,Travel Agent,Overbooking
+350,Resort Hotel,96,307,339,Oct,0,10,296.61,0.39,0.14,Corporate,Overbooking
+351,City Hotel,254,265,59,Jul,1,13,260.46,0.56,0.26,Corporate,Overbooking
+352,Resort Hotel,109,67,263,Apr,4,2,354.73,0.02,0.34,Travel Agent,Underbooking
+353,City Hotel,176,203,173,Mar,0,4,253.38,0.11,0.3,Offline,Overbooking
+354,City Hotel,145,287,84,Feb,4,5,100.84,0.54,0.02,Corporate,Overbooking
+355,City Hotel,248,341,330,Dec,2,10,116.61,0.01,0.15,Direct,Overbooking
+356,Resort Hotel,145,290,12,Oct,4,11,305.65,0.03,0.07,Corporate,Overbooking
+357,City Hotel,125,80,94,Jan,3,13,105.78,0.54,0.1,Direct,Underbooking
+358,City Hotel,178,143,47,Jul,0,5,276.03,0.27,0.09,Corporate,Optimal
+359,City Hotel,160,253,234,Mar,1,7,262.01,0.06,0.2,Direct,Overbooking
+360,Resort Hotel,118,170,92,Sep,1,8,297.13,0.51,0.31,Online,Overbooking
+361,City Hotel,116,101,67,Feb,4,10,64.39,0.27,0.1,Corporate,Optimal
+362,Resort Hotel,102,340,176,Apr,4,5,384.13,0.22,0.23,Travel Agent,Overbooking
+363,Resort Hotel,218,216,60,Sep,2,8,277.04,0.31,0.28,Corporate,Optimal
+364,City Hotel,194,211,121,Jul,0,8,268.97,0.24,0.25,Online,Overbooking
+365,City Hotel,213,108,178,Jan,4,4,221.53,0.17,0.22,Online,Underbooking
+366,Resort Hotel,92,221,81,Feb,0,11,276.74,0.07,0.19,Travel Agent,Overbooking
+367,City Hotel,94,108,180,Apr,0,4,183,0.41,0.05,Travel Agent,Overbooking
+368,Resort Hotel,126,82,207,Jun,1,9,80.3,0.34,0.33,Offline,Optimal
+369,City Hotel,271,205,20,May,1,8,344.63,0.31,0.34,Offline,Optimal
+370,City Hotel,177,332,132,Oct,4,11,372.54,0.07,0.07,Corporate,Overbooking
+371,City Hotel,163,197,32,Apr,3,7,300.74,0.47,0.18,Offline,Overbooking
+372,City Hotel,173,170,187,Apr,2,6,397.24,0.36,0.23,Online,Optimal
+373,City Hotel,290,211,145,Apr,4,11,183.35,0.26,0.14,Offline,Optimal
+374,City Hotel,217,57,149,Sep,0,4,340.47,0.43,0.04,Travel Agent,Underbooking
+375,Resort Hotel,92,318,245,Aug,0,7,171.61,0.11,0.2,Direct,Overbooking
+376,City Hotel,206,214,212,Apr,1,2,172.1,0.33,0.33,Online,Overbooking
+377,City Hotel,107,178,215,Oct,0,7,150.21,0.54,0.12,Corporate,Overbooking
+378,Resort Hotel,284,97,305,Aug,4,12,261.09,0.07,0.13,Travel Agent,Underbooking
+379,Resort Hotel,104,255,340,May,4,8,373.41,0.02,0.23,Corporate,Overbooking
+380,Resort Hotel,243,300,37,Aug,4,1,390.66,0.09,0.15,Direct,Overbooking
+381,City Hotel,108,226,189,Jun,0,6,218.69,0.48,0.09,Travel Agent,Overbooking
+382,Resort Hotel,174,264,90,Jan,1,13,115.53,0.23,0.26,Travel Agent,Overbooking
+383,Resort Hotel,187,196,221,Dec,3,1,116.74,0.32,0,Online,Overbooking
+384,Resort Hotel,247,230,333,Mar,1,10,214.39,0.51,0.25,Direct,Optimal
+385,City Hotel,222,222,91,Sep,0,13,238.52,0.22,0.31,Direct,Optimal
+386,City Hotel,236,320,359,Mar,2,12,229.58,0.3,0,Online,Overbooking
+387,City Hotel,176,181,123,Sep,0,12,215.54,0.02,0.18,Corporate,Overbooking
+388,Resort Hotel,267,242,199,Apr,0,10,76.96,0.47,0.11,Travel Agent,Optimal
+389,City Hotel,94,50,240,Feb,2,11,171.05,0.11,0.32,Corporate,Underbooking
+390,City Hotel,154,285,235,Sep,4,13,158.43,0.16,0.28,Direct,Overbooking
+391,Resort Hotel,124,81,240,Sep,4,1,298.21,0.48,0.27,Corporate,Optimal
+392,Resort Hotel,143,171,281,Nov,3,9,244.6,0.1,0.02,Offline,Overbooking
+393,City Hotel,129,297,287,Jul,3,10,322.41,0.28,0.08,Corporate,Overbooking
+394,City Hotel,128,63,12,May,3,9,152.23,0.21,0.07,Travel Agent,Underbooking
+395,Resort Hotel,91,234,137,Jan,4,11,386.46,0.05,0.15,Offline,Overbooking
+396,City Hotel,293,208,364,May,3,6,286.68,0.47,0.22,Online,Optimal
+397,City Hotel,84,131,25,Feb,2,1,110.23,0.56,0.05,Corporate,Overbooking
+398,City Hotel,137,191,278,May,4,12,280.45,0.09,0.31,Direct,Overbooking
+399,Resort Hotel,256,224,186,Dec,0,4,222.01,0.02,0.2,Direct,Optimal
+400,City Hotel,280,153,233,Feb,4,1,386.92,0.33,0.13,Corporate,Underbooking
+401,Resort Hotel,111,338,246,Apr,4,5,304.74,0.09,0.03,Corporate,Overbooking
+402,City Hotel,219,63,32,Apr,3,7,371.7,0.15,0.18,Travel Agent,Underbooking
+403,Resort Hotel,232,57,124,Nov,3,11,149.63,0.22,0.29,Direct,Underbooking
+404,City Hotel,254,294,29,Jul,4,13,123.14,0.55,0.18,Direct,Overbooking
+405,City Hotel,127,63,119,May,1,6,179.48,0.07,0.28,Direct,Underbooking
+406,Resort Hotel,171,178,213,Dec,3,10,229,0.36,0.27,Online,Overbooking
+407,City Hotel,182,188,126,Dec,2,2,255.23,0.41,0.12,Corporate,Overbooking
+408,City Hotel,282,229,179,Feb,0,7,235.51,0.25,0.3,Corporate,Optimal
+409,Resort Hotel,97,306,207,May,1,3,360.65,0.35,0.15,Corporate,Overbooking
+410,City Hotel,167,314,320,Sep,2,13,399.35,0.11,0.25,Travel Agent,Overbooking
+411,Resort Hotel,111,226,221,Dec,2,3,206.65,0.02,0.27,Offline,Overbooking
+412,City Hotel,248,283,264,Apr,4,1,188.59,0.27,0.1,Corporate,Overbooking
+413,Resort Hotel,237,196,328,Feb,1,9,283.91,0.59,0.1,Online,Optimal
+414,Resort Hotel,240,301,357,Mar,0,6,374.03,0.03,0.13,Offline,Overbooking
+415,Resort Hotel,196,77,183,Sep,1,12,152.82,0.2,0.14,Offline,Underbooking
+416,City Hotel,98,331,271,Oct,2,1,151.38,0.3,0.26,Online,Overbooking
+417,City Hotel,114,85,64,Oct,4,5,105.93,0.42,0.05,Online,Optimal
+418,City Hotel,142,290,307,Dec,4,13,214.29,0.15,0.03,Online,Overbooking
+419,Resort Hotel,240,66,284,Oct,3,7,330.98,0.6,0.13,Corporate,Underbooking
+420,City Hotel,258,301,121,Aug,3,3,273.57,0.03,0.08,Travel Agent,Overbooking
+421,Resort Hotel,144,257,67,Jun,0,11,98.31,0.07,0.17,Online,Overbooking
+422,Resort Hotel,137,76,318,Mar,0,6,194.95,0.2,0.32,Offline,Underbooking
+423,City Hotel,277,198,73,Aug,2,11,233.24,0.12,0.25,Travel Agent,Optimal
+424,Resort Hotel,202,67,18,Nov,3,3,369.48,0.53,0.2,Corporate,Underbooking
+425,Resort Hotel,244,332,204,Apr,3,11,103.95,0.47,0,Corporate,Overbooking
+426,City Hotel,274,203,228,Jan,2,7,339.11,0.16,0.15,Direct,Optimal
+427,City Hotel,164,123,271,Jun,4,10,159.13,0.27,0.17,Online,Optimal
+428,Resort Hotel,181,268,10,May,4,8,253.78,0.07,0.35,Travel Agent,Overbooking
+429,City Hotel,84,334,16,Apr,3,13,344.89,0.44,0.13,Offline,Overbooking
+430,Resort Hotel,182,171,239,Nov,1,2,124.4,0.57,0.21,Direct,Optimal
+431,Resort Hotel,136,195,144,Dec,0,1,90.39,0.34,0.15,Online,Overbooking
+432,Resort Hotel,281,55,24,Apr,3,3,287.14,0.26,0.07,Corporate,Underbooking
+433,City Hotel,277,190,176,Aug,2,8,380.97,0.38,0.22,Direct,Optimal
+434,City Hotel,94,80,63,May,2,4,177.51,0.4,0.32,Corporate,Optimal
+435,City Hotel,281,207,323,Jul,3,3,175.54,0.51,0.03,Direct,Optimal
+436,City Hotel,262,147,131,Aug,3,9,346.11,0.14,0.04,Offline,Underbooking
+437,City Hotel,299,119,112,Sep,3,12,185.34,0.2,0.27,Corporate,Underbooking
+438,Resort Hotel,114,73,109,May,2,11,232.02,0.11,0.21,Offline,Underbooking
+439,City Hotel,192,345,260,Nov,0,3,229.79,0.56,0.13,Direct,Overbooking
+440,City Hotel,299,231,203,Aug,0,4,189.46,0.58,0.25,Corporate,Optimal
+441,City Hotel,136,105,219,Aug,0,12,270.54,0.38,0.07,Direct,Optimal
+442,Resort Hotel,151,127,119,Sep,2,5,118.14,0.51,0.01,Corporate,Optimal
+443,City Hotel,81,295,345,May,0,4,204.57,0.21,0.01,Corporate,Overbooking
+444,City Hotel,224,159,154,Feb,4,9,289.62,0.51,0.23,Offline,Optimal
+445,City Hotel,281,171,77,May,3,7,272.04,0.18,0.04,Corporate,Underbooking
+446,Resort Hotel,137,283,142,Jul,1,7,122.44,0.07,0.04,Direct,Overbooking
+447,Resort Hotel,236,224,146,Sep,2,3,345.05,0.31,0,Direct,Optimal
+448,Resort Hotel,200,260,76,Jun,1,1,349.73,0.52,0.2,Corporate,Overbooking
+449,Resort Hotel,227,88,191,May,2,13,75.08,0.54,0.04,Travel Agent,Underbooking
+450,Resort Hotel,245,343,356,Nov,2,13,281.16,0.43,0.07,Offline,Overbooking
+451,City Hotel,131,237,80,Oct,3,13,88.92,0.4,0.1,Offline,Overbooking
+452,Resort Hotel,129,112,120,May,0,5,69.19,0.36,0.09,Online,Optimal
+453,Resort Hotel,110,254,347,Dec,3,5,301.82,0.34,0.22,Offline,Overbooking
+454,City Hotel,86,91,359,Jul,1,4,208.36,0.01,0.03,Offline,Overbooking
+455,Resort Hotel,200,149,108,Mar,1,9,81.08,0.12,0.22,Corporate,Optimal
+456,City Hotel,230,200,101,Mar,2,3,156.56,0.08,0.1,Online,Optimal
+457,Resort Hotel,82,326,59,Feb,1,8,281.81,0.21,0.06,Offline,Overbooking
+458,City Hotel,193,200,9,Aug,2,5,304.04,0.15,0.23,Offline,Overbooking
+459,Resort Hotel,85,160,338,Jul,4,4,381.24,0,0.01,Corporate,Overbooking
+460,Resort Hotel,243,305,48,Apr,0,11,225.86,0.42,0.23,Online,Overbooking
+461,Resort Hotel,210,58,74,Feb,2,3,294.46,0.08,0.34,Online,Underbooking
+462,City Hotel,252,263,292,Apr,0,10,105.13,0.35,0.27,Online,Overbooking
+463,City Hotel,98,58,141,Mar,4,11,197.83,0.09,0.27,Travel Agent,Underbooking
+464,Resort Hotel,209,86,219,May,3,9,93.17,0.4,0.33,Online,Underbooking
+465,City Hotel,91,278,349,Apr,4,3,376.01,0.52,0.24,Travel Agent,Overbooking
+466,Resort Hotel,289,311,131,Jan,0,9,213.91,0.06,0.05,Offline,Overbooking
+467,Resort Hotel,185,303,186,Mar,2,12,107.55,0.22,0.1,Travel Agent,Overbooking
+468,Resort Hotel,200,283,76,Jun,1,7,243.24,0.09,0.15,Travel Agent,Overbooking
+469,City Hotel,169,238,131,Jul,0,5,288.87,0.6,0.13,Corporate,Overbooking
+470,City Hotel,124,307,236,Dec,4,1,262.19,0.25,0.33,Offline,Overbooking
+471,City Hotel,208,54,206,Jul,0,10,154.93,0.3,0.24,Offline,Underbooking
+472,Resort Hotel,237,318,11,Feb,3,12,363.65,0.26,0.05,Offline,Overbooking
+473,Resort Hotel,131,162,201,Feb,4,5,171.28,0.49,0.03,Corporate,Overbooking
+474,Resort Hotel,249,286,197,Dec,0,4,144.26,0.03,0.01,Offline,Overbooking
+475,Resort Hotel,150,255,234,Aug,1,7,95.17,0.04,0.03,Corporate,Overbooking
+476,City Hotel,237,347,169,Jul,4,6,294.15,0.44,0.25,Online,Overbooking
+477,Resort Hotel,113,131,272,May,3,2,337.66,0.42,0.08,Corporate,Overbooking
+478,City Hotel,98,108,167,Nov,3,2,114.32,0.3,0.07,Corporate,Overbooking
+479,City Hotel,252,182,352,Mar,4,4,371.51,0.44,0.22,Travel Agent,Optimal
+480,City Hotel,269,345,361,Jul,2,8,374.03,0.02,0.21,Offline,Overbooking
+481,City Hotel,250,169,23,Sep,4,7,130.57,0.34,0.3,Direct,Optimal
+482,Resort Hotel,126,207,329,Feb,2,11,183.56,0.32,0.06,Direct,Overbooking
+483,City Hotel,199,257,188,Aug,1,3,179.32,0.27,0.34,Travel Agent,Overbooking
+484,Resort Hotel,292,68,181,Sep,1,3,154.63,0.03,0.06,Offline,Underbooking
+485,City Hotel,299,224,197,Nov,2,9,301.52,0.33,0.32,Direct,Optimal
+486,Resort Hotel,158,123,238,Apr,1,4,172.8,0.17,0.09,Online,Optimal
+487,City Hotel,262,270,25,Jan,0,3,77.21,0.07,0.34,Corporate,Overbooking
+488,Resort Hotel,179,324,38,Oct,4,11,322.11,0.44,0.04,Offline,Overbooking
+489,City Hotel,170,342,344,May,1,3,374.51,0.49,0.15,Corporate,Overbooking
+490,City Hotel,108,123,211,Dec,1,12,293.32,0.23,0,Offline,Overbooking
+491,Resort Hotel,206,255,154,Jun,1,1,252.2,0.05,0.33,Corporate,Overbooking
+492,Resort Hotel,287,175,342,Nov,2,13,289.14,0.31,0.02,Direct,Underbooking
+493,Resort Hotel,245,286,282,Oct,4,2,223.17,0.5,0.3,Corporate,Overbooking
+494,City Hotel,200,77,194,Sep,2,7,205.48,0.41,0.09,Online,Underbooking
+495,Resort Hotel,91,139,115,Jan,0,4,309.38,0.12,0.13,Travel Agent,Overbooking
+496,Resort Hotel,117,135,261,Dec,4,4,237.07,0.38,0.3,Travel Agent,Overbooking
+497,Resort Hotel,144,66,221,Oct,0,13,214.13,0.43,0.26,Offline,Underbooking
+498,City Hotel,299,252,162,Jul,1,11,143.84,0.18,0.04,Travel Agent,Optimal
+499,City Hotel,99,121,26,Sep,4,9,132.78,0.19,0.3,Travel Agent,Overbooking
+500,City Hotel,90,120,226,Aug,0,4,152.56,0.19,0.24,Travel Agent,Overbooking
+501,City Hotel,296,295,163,Jul,4,11,64.22,0.54,0.35,Corporate,Optimal
+502,City Hotel,231,294,357,Mar,4,7,300.79,0.31,0.3,Travel Agent,Overbooking
+503,City Hotel,147,292,227,Sep,0,5,259.41,0.3,0.04,Offline,Overbooking
+504,City Hotel,214,283,90,Oct,1,4,86.76,0.02,0.15,Online,Overbooking
+505,City Hotel,87,301,29,Apr,2,5,103.69,0.44,0.13,Direct,Overbooking
+506,City Hotel,126,205,237,Jan,4,9,351.32,0.12,0.32,Direct,Overbooking
+507,Resort Hotel,85,344,299,Jan,4,3,203.64,0.21,0.08,Online,Overbooking
+508,Resort Hotel,247,335,190,Jun,1,12,397.74,0.22,0.1,Travel Agent,Overbooking
+509,City Hotel,251,87,150,Jun,3,4,139.32,0.53,0.34,Corporate,Underbooking
+510,City Hotel,98,158,37,Oct,4,4,208.51,0.52,0.22,Corporate,Overbooking
+511,Resort Hotel,194,278,242,Jun,3,6,146.98,0.29,0.31,Direct,Overbooking
+512,Resort Hotel,284,277,226,Apr,4,9,75.87,0.3,0.33,Offline,Optimal
+513,City Hotel,255,68,176,Jan,4,10,138.44,0.17,0.02,Direct,Underbooking
+514,Resort Hotel,192,303,309,Aug,0,4,354.33,0.27,0.01,Corporate,Overbooking
+515,Resort Hotel,123,256,199,Feb,0,13,126.93,0.28,0.11,Direct,Overbooking
+516,Resort Hotel,206,156,36,Dec,2,12,293.02,0.01,0.17,Direct,Optimal
+517,Resort Hotel,227,129,223,May,2,1,235.07,0.54,0.32,Offline,Underbooking
+518,City Hotel,148,252,25,May,3,7,347.62,0.4,0.29,Offline,Overbooking
+519,Resort Hotel,151,55,79,Nov,4,13,146.52,0.05,0.09,Online,Underbooking
+520,City Hotel,213,147,41,Jan,4,1,114.59,0.28,0.14,Online,Optimal
+521,Resort Hotel,295,260,112,Jan,4,2,330.81,0.6,0.17,Corporate,Optimal
+522,Resort Hotel,189,308,335,Jun,0,6,343.46,0.24,0.21,Online,Overbooking
+523,City Hotel,80,317,225,Apr,3,13,221.77,0.14,0.12,Corporate,Overbooking
+524,City Hotel,113,211,308,Oct,1,13,158.04,0.47,0.25,Corporate,Overbooking
+525,City Hotel,237,69,299,Dec,3,5,121.57,0.22,0.27,Online,Underbooking
+526,City Hotel,170,236,127,Dec,0,9,114.23,0.43,0.29,Corporate,Overbooking
+527,City Hotel,126,59,0,Jun,0,5,137.47,0.42,0,Travel Agent,Underbooking
+528,Resort Hotel,86,102,152,Apr,1,10,166.51,0.07,0.04,Corporate,Overbooking
+529,City Hotel,194,70,72,Sep,0,6,241.89,0.47,0.23,Travel Agent,Underbooking
+530,City Hotel,165,150,256,Mar,3,4,164.13,0.42,0.12,Travel Agent,Optimal
+531,City Hotel,206,166,194,May,0,13,65.52,0.43,0,Travel Agent,Optimal
+532,Resort Hotel,263,156,103,Aug,2,3,315.79,0.23,0.29,Online,Underbooking
+533,Resort Hotel,97,187,200,Sep,3,4,136.57,0.38,0.18,Direct,Overbooking
+534,City Hotel,105,231,275,Sep,1,11,211.24,0.45,0.34,Online,Overbooking
+535,Resort Hotel,182,227,198,Apr,3,12,196.58,0.48,0.04,Corporate,Overbooking
+536,Resort Hotel,250,228,82,Feb,0,5,298.63,0.11,0.14,Online,Optimal
+537,City Hotel,166,221,119,Feb,0,6,169.99,0.54,0.03,Offline,Overbooking
+538,City Hotel,284,159,23,Nov,2,9,124.08,0.1,0.29,Online,Underbooking
+539,City Hotel,128,118,336,Jan,4,11,236.07,0.31,0.14,Travel Agent,Optimal
+540,Resort Hotel,295,165,219,Jun,0,13,192.92,0.07,0.07,Offline,Underbooking
+541,City Hotel,103,204,221,Oct,3,1,200.32,0.27,0.04,Travel Agent,Overbooking
+542,City Hotel,86,301,143,Mar,1,12,236.2,0.37,0.1,Corporate,Overbooking
+543,City Hotel,217,285,78,Aug,1,9,205.07,0.27,0.22,Online,Overbooking
+544,City Hotel,257,196,218,Jun,1,6,328.47,0.13,0.08,Offline,Optimal
+545,Resort Hotel,207,244,324,Feb,3,11,172.65,0.15,0.13,Online,Overbooking
+546,Resort Hotel,171,321,349,Feb,3,2,374.1,0.33,0.12,Direct,Overbooking
+547,Resort Hotel,175,58,73,May,1,13,114.27,0.5,0.2,Direct,Underbooking
+548,Resort Hotel,231,192,295,Apr,4,10,244.95,0.34,0.11,Direct,Optimal
+549,City Hotel,212,181,102,Dec,0,10,345.22,0.53,0.29,Direct,Optimal
+550,Resort Hotel,144,289,242,Jul,3,9,80.28,0.06,0.28,Corporate,Overbooking
+551,City Hotel,136,142,165,Sep,4,8,109.3,0.26,0.18,Direct,Overbooking
+552,City Hotel,169,104,168,Sep,2,10,98.8,0.24,0.17,Direct,Underbooking
+553,City Hotel,239,254,214,Dec,4,5,306.15,0.3,0.06,Online,Overbooking
+554,Resort Hotel,117,302,358,Mar,0,12,233.23,0.31,0.18,Travel Agent,Overbooking
+555,City Hotel,158,325,205,May,1,7,156.61,0.29,0.24,Travel Agent,Overbooking
+556,City Hotel,176,257,113,Apr,4,11,234.84,0.27,0.26,Online,Overbooking
+557,Resort Hotel,102,281,306,Aug,2,10,344.87,0.27,0.27,Corporate,Overbooking
+558,City Hotel,168,237,359,Aug,1,13,181.44,0.16,0.21,Online,Overbooking
+559,Resort Hotel,205,141,247,Mar,1,2,182.97,0.42,0,Online,Optimal
+560,City Hotel,141,125,93,May,4,7,293.98,0.52,0.24,Travel Agent,Optimal
+561,Resort Hotel,271,336,0,Jun,0,4,78.12,0.41,0.03,Direct,Overbooking
+562,City Hotel,112,198,183,Nov,4,6,133.75,0.57,0.34,Corporate,Overbooking
+563,Resort Hotel,253,277,230,Oct,3,6,292.62,0.41,0.35,Corporate,Overbooking
+564,City Hotel,152,189,9,Apr,1,9,165.38,0.37,0.32,Offline,Overbooking
+565,City Hotel,273,306,239,Nov,2,13,208.64,0.43,0.31,Offline,Overbooking
+566,City Hotel,121,186,321,Jun,3,9,67.23,0.01,0.02,Direct,Overbooking
+567,City Hotel,250,331,24,Sep,3,4,314.24,0.59,0.06,Travel Agent,Overbooking
+568,Resort Hotel,190,137,194,Jul,3,1,305.91,0.28,0.21,Corporate,Optimal
+569,Resort Hotel,196,298,355,Apr,2,5,368.57,0.3,0.1,Online,Overbooking
+570,City Hotel,187,335,278,Mar,1,5,111.27,0.41,0.23,Travel Agent,Overbooking
+571,Resort Hotel,215,329,228,Jul,2,11,104.94,0.14,0.04,Online,Overbooking
+572,City Hotel,158,60,41,Feb,4,8,80.69,0.28,0.35,Online,Underbooking
+573,City Hotel,140,267,53,Jan,4,12,89.77,0.07,0.13,Online,Overbooking
+574,City Hotel,109,248,19,Feb,4,13,293.41,0.37,0.01,Offline,Overbooking
+575,City Hotel,156,298,48,Oct,1,2,196.93,0.13,0.18,Offline,Overbooking
+576,City Hotel,98,194,289,Aug,3,7,185.27,0.58,0.09,Corporate,Overbooking
+577,City Hotel,108,107,292,Feb,0,5,376.25,0.35,0.05,Offline,Optimal
+578,Resort Hotel,249,265,246,Oct,3,9,367.07,0,0.02,Direct,Overbooking
+579,Resort Hotel,288,255,143,May,0,10,94.07,0.04,0.33,Offline,Optimal
+580,City Hotel,288,64,124,Dec,0,3,108.44,0.06,0.12,Direct,Underbooking
+581,Resort Hotel,118,221,331,Aug,2,10,196.88,0.14,0.27,Direct,Overbooking
+582,City Hotel,225,92,156,Jun,4,6,317.46,0.38,0.02,Online,Underbooking
+583,City Hotel,111,343,273,Oct,2,9,84.06,0.45,0.29,Corporate,Overbooking
+584,City Hotel,237,67,40,Feb,4,9,102.29,0.33,0.24,Corporate,Underbooking
+585,City Hotel,204,335,266,Apr,1,8,103.16,0.55,0.03,Direct,Overbooking
+586,Resort Hotel,282,273,36,Mar,1,9,156.07,0.31,0.3,Travel Agent,Optimal
+587,Resort Hotel,295,98,74,Apr,0,6,336.21,0.06,0.01,Offline,Underbooking
+588,Resort Hotel,116,209,253,May,0,6,232.36,0.59,0.31,Direct,Overbooking
+589,Resort Hotel,87,315,242,Jul,3,7,286.4,0.02,0.21,Corporate,Overbooking
+590,City Hotel,124,349,224,Dec,4,1,62.77,0.09,0.33,Travel Agent,Overbooking
+591,City Hotel,261,324,22,Jul,4,10,235.09,0.15,0.21,Direct,Overbooking
+592,Resort Hotel,145,349,209,Jun,3,1,125.65,0.5,0.3,Online,Overbooking
+593,Resort Hotel,156,260,142,Apr,4,7,388.59,0.05,0.24,Travel Agent,Overbooking
+594,Resort Hotel,229,82,7,Mar,4,8,285.7,0.31,0.27,Corporate,Underbooking
+595,City Hotel,270,325,158,Dec,3,9,65.2,0.13,0.24,Travel Agent,Overbooking
+596,Resort Hotel,276,133,202,Sep,2,5,351.34,0,0.16,Corporate,Underbooking
+597,City Hotel,127,327,160,Apr,3,10,83.73,0.27,0.09,Direct,Overbooking
+598,City Hotel,203,335,243,Feb,4,7,243.14,0.5,0.02,Online,Overbooking
+599,Resort Hotel,150,51,198,Nov,0,7,230.65,0.46,0.28,Travel Agent,Underbooking
+600,City Hotel,204,223,275,Oct,1,1,148.53,0.29,0.08,Corporate,Overbooking
+601,City Hotel,136,345,216,Oct,4,11,95.99,0.47,0.31,Offline,Overbooking
+602,Resort Hotel,184,239,351,May,4,1,394.84,0.47,0.24,Direct,Overbooking
+603,Resort Hotel,266,310,310,Oct,1,5,190.76,0.55,0.03,Direct,Overbooking
+604,Resort Hotel,133,190,232,Jul,4,1,214.28,0.2,0.33,Travel Agent,Overbooking
+605,Resort Hotel,188,251,191,Aug,4,5,80.14,0.32,0.15,Travel Agent,Overbooking
+606,Resort Hotel,127,126,82,Feb,4,6,395.97,0.18,0.12,Offline,Optimal
+607,Resort Hotel,80,198,209,Mar,1,2,341.67,0.15,0.01,Offline,Overbooking
+608,Resort Hotel,178,289,20,Feb,1,1,227.57,0.47,0.18,Corporate,Overbooking
+609,City Hotel,244,96,157,Jul,4,10,239.33,0.11,0.06,Travel Agent,Underbooking
+610,City Hotel,200,133,65,May,2,6,223.22,0.04,0.23,Travel Agent,Optimal
+611,Resort Hotel,210,176,259,Sep,0,4,147.03,0.54,0.04,Online,Optimal
+612,Resort Hotel,295,227,71,Jun,3,12,222.05,0.22,0.26,Online,Optimal
+613,Resort Hotel,117,70,253,Dec,4,3,63.48,0.43,0.03,Direct,Underbooking
+614,City Hotel,87,183,197,Sep,3,4,205.03,0.07,0.28,Offline,Overbooking
+615,City Hotel,165,268,114,Apr,3,2,202.88,0.6,0.18,Direct,Overbooking
+616,Resort Hotel,262,269,350,Jun,4,6,160.96,0.43,0.35,Offline,Overbooking
+617,City Hotel,254,170,234,Sep,2,11,322.19,0.51,0.26,Direct,Optimal
+618,City Hotel,266,327,92,Oct,2,4,209.34,0.58,0.21,Online,Overbooking
+619,Resort Hotel,132,349,354,Oct,3,12,145.34,0.14,0.34,Travel Agent,Overbooking
+620,Resort Hotel,214,253,41,Nov,1,9,75.52,0.11,0.29,Corporate,Overbooking
+621,Resort Hotel,278,297,213,Aug,0,2,304.15,0.04,0.21,Online,Overbooking
+622,Resort Hotel,268,239,148,Jul,0,3,303.56,0.23,0.3,Corporate,Optimal
+623,City Hotel,287,234,199,May,4,3,335.64,0.51,0.34,Online,Optimal
+624,City Hotel,131,162,131,Jan,3,9,196.88,0.43,0.25,Online,Overbooking
+625,City Hotel,107,51,235,Apr,3,1,125.02,0.59,0.1,Offline,Underbooking
+626,Resort Hotel,91,147,81,Sep,4,10,92.26,0.23,0.03,Online,Overbooking
+627,City Hotel,232,112,109,Aug,0,12,90.23,0.08,0.08,Direct,Underbooking
+628,Resort Hotel,165,104,230,Jul,1,10,308.22,0.18,0.27,Corporate,Underbooking
+629,Resort Hotel,270,154,141,Feb,3,8,69.04,0.5,0.34,Travel Agent,Underbooking
+630,Resort Hotel,168,324,256,May,1,7,182.78,0.06,0.12,Travel Agent,Overbooking
+631,City Hotel,286,128,138,Jun,0,12,204.8,0.44,0.26,Online,Underbooking
+632,City Hotel,247,262,318,Sep,4,5,282.16,0.58,0.28,Corporate,Overbooking
+633,Resort Hotel,84,74,290,Apr,2,12,88.35,0.31,0.29,Travel Agent,Optimal
+634,City Hotel,239,342,346,Mar,2,3,158.54,0.27,0.34,Direct,Overbooking
+635,City Hotel,254,275,122,Jun,2,4,101.73,0,0.01,Online,Overbooking
+636,City Hotel,87,247,97,Jan,2,11,291.95,0.27,0.3,Travel Agent,Overbooking
+637,City Hotel,178,276,358,Dec,4,4,359.63,0.11,0.04,Direct,Overbooking
+638,Resort Hotel,279,320,238,Nov,1,2,101.91,0.55,0.35,Travel Agent,Overbooking
+639,City Hotel,146,150,362,Jun,2,3,204.22,0.58,0.05,Corporate,Overbooking
+640,Resort Hotel,103,232,354,Apr,0,4,268.75,0.39,0.15,Travel Agent,Overbooking
+641,Resort Hotel,127,265,26,Jan,4,10,170.43,0.08,0.21,Online,Overbooking
+642,City Hotel,258,110,321,Nov,0,4,193.49,0.27,0.02,Direct,Underbooking
+643,Resort Hotel,243,137,182,Aug,0,11,75.88,0.06,0.21,Offline,Underbooking
+644,Resort Hotel,110,298,137,Mar,1,4,185.75,0.24,0.13,Corporate,Overbooking
+645,Resort Hotel,250,149,158,Jul,1,11,166.91,0.33,0.01,Corporate,Underbooking
+646,Resort Hotel,150,269,60,Feb,2,1,197.77,0.33,0.31,Online,Overbooking
+647,Resort Hotel,281,95,97,Sep,2,11,378.27,0.17,0.17,Online,Underbooking
+648,Resort Hotel,150,322,245,Jun,1,9,245.41,0,0.15,Offline,Overbooking
+649,Resort Hotel,191,342,265,Dec,2,7,267.83,0.33,0.32,Offline,Overbooking
+650,Resort Hotel,105,217,324,Jul,2,3,251.54,0.02,0.26,Direct,Overbooking
+651,City Hotel,298,259,249,Jul,1,2,134.27,0.17,0.23,Offline,Optimal
+652,Resort Hotel,97,127,204,Mar,4,9,176.96,0.17,0.02,Direct,Overbooking
+653,Resort Hotel,141,312,67,Jan,2,4,332.58,0.02,0.24,Online,Overbooking
+654,City Hotel,268,284,275,Mar,4,13,145.8,0.52,0.27,Online,Overbooking
+655,Resort Hotel,278,198,253,Mar,1,12,167.62,0.34,0.2,Offline,Optimal
+656,Resort Hotel,216,299,362,Jan,0,3,111.36,0.15,0.06,Direct,Overbooking
+657,City Hotel,106,89,33,May,0,10,369.59,0.55,0.06,Offline,Optimal
+658,Resort Hotel,189,138,31,Aug,0,5,180.71,0.45,0.24,Direct,Optimal
+659,City Hotel,222,291,270,Sep,3,10,70.87,0.51,0.24,Corporate,Overbooking
+660,City Hotel,257,128,361,Jul,2,2,140.55,0.02,0.05,Corporate,Underbooking
+661,Resort Hotel,266,227,230,Feb,0,12,122.48,0.32,0.09,Online,Optimal
+662,City Hotel,121,301,221,Mar,1,13,211.54,0.43,0.03,Offline,Overbooking
+663,Resort Hotel,222,284,73,Jul,1,5,358.05,0.48,0.16,Direct,Overbooking
+664,City Hotel,223,159,364,Oct,4,3,287.93,0.03,0.14,Corporate,Optimal
+665,City Hotel,159,190,29,Apr,0,3,85.42,0.23,0.28,Travel Agent,Overbooking
+666,Resort Hotel,182,123,357,Dec,3,9,65.5,0.52,0.23,Corporate,Optimal
+667,Resort Hotel,292,119,171,May,4,8,323.87,0.2,0.03,Offline,Underbooking
+668,City Hotel,129,89,104,Sep,1,13,77.73,0.1,0.02,Offline,Optimal
+669,Resort Hotel,262,69,341,Jun,2,8,234.36,0.14,0.31,Direct,Underbooking
+670,Resort Hotel,291,142,225,Jan,3,1,158.45,0.27,0.31,Travel Agent,Underbooking
+671,City Hotel,250,291,304,Dec,3,9,152.01,0.44,0.18,Online,Overbooking
+672,Resort Hotel,216,299,170,Dec,0,12,150.45,0.05,0.26,Direct,Overbooking
+673,Resort Hotel,249,74,80,Jul,1,3,344.21,0.35,0.03,Corporate,Underbooking
+674,City Hotel,148,305,228,Apr,1,1,373.02,0.43,0.34,Online,Overbooking
+675,City Hotel,232,290,231,Jan,0,12,392.95,0.59,0.28,Offline,Overbooking
+676,Resort Hotel,297,149,101,Mar,2,5,325.86,0.08,0.2,Travel Agent,Underbooking
+677,Resort Hotel,118,240,207,Mar,3,5,291.11,0.03,0.27,Corporate,Overbooking
+678,Resort Hotel,211,186,142,Jun,1,9,394.8,0.31,0.08,Direct,Optimal
+679,Resort Hotel,101,187,325,Feb,3,4,321.31,0.06,0.34,Direct,Overbooking
+680,Resort Hotel,199,215,63,Dec,2,10,140,0.33,0.04,Travel Agent,Overbooking
+681,City Hotel,172,156,218,Nov,4,5,313.78,0.17,0.19,Offline,Optimal
+682,City Hotel,225,243,256,Mar,0,1,217.75,0.13,0.25,Travel Agent,Overbooking
+683,Resort Hotel,202,273,159,May,4,9,355.44,0.47,0.1,Direct,Overbooking
+684,City Hotel,133,128,181,Feb,0,12,249.16,0.57,0.3,Direct,Optimal
+685,City Hotel,250,217,182,Dec,2,6,381.38,0.04,0.31,Corporate,Optimal
+686,Resort Hotel,152,163,60,Apr,1,5,124.67,0.01,0.22,Direct,Overbooking
+687,City Hotel,268,339,309,Nov,3,8,271.69,0.05,0.32,Online,Overbooking
+688,City Hotel,189,281,216,Nov,0,5,373.76,0.34,0.18,Offline,Overbooking
+689,Resort Hotel,293,73,331,Sep,3,11,281.7,0.2,0.28,Corporate,Underbooking
+690,City Hotel,106,67,329,Sep,1,6,237.68,0.07,0.16,Online,Underbooking
+691,Resort Hotel,104,289,235,Mar,4,11,373.4,0.29,0.03,Online,Overbooking
+692,Resort Hotel,260,186,62,Mar,2,4,390.82,0.48,0.05,Direct,Optimal
+693,City Hotel,211,131,199,Sep,2,1,248.07,0.27,0.31,Direct,Underbooking
+694,Resort Hotel,124,243,54,Mar,1,6,302.88,0.08,0.29,Online,Overbooking
+695,City Hotel,99,245,132,Jan,1,13,266.2,0.15,0.08,Online,Overbooking
+696,Resort Hotel,181,249,3,Jan,2,2,213.26,0.43,0.14,Travel Agent,Overbooking
+697,Resort Hotel,144,224,60,Jan,0,11,376.39,0.26,0.34,Online,Overbooking
+698,City Hotel,247,87,258,Dec,0,2,218.4,0.03,0.19,Direct,Underbooking
+699,City Hotel,272,147,151,Mar,3,2,263.25,0.09,0.22,Travel Agent,Underbooking
+700,City Hotel,81,268,205,Apr,4,4,257.69,0.07,0.1,Direct,Overbooking
+701,City Hotel,221,75,74,Sep,1,3,175.86,0.17,0.19,Offline,Underbooking
+702,City Hotel,201,106,171,Oct,0,9,100.79,0.18,0.06,Offline,Underbooking
+703,Resort Hotel,118,269,56,Dec,2,2,216.67,0.39,0.07,Online,Overbooking
+704,Resort Hotel,157,179,112,Mar,3,10,356.59,0.34,0.24,Online,Overbooking
+705,Resort Hotel,93,196,140,Jun,3,2,384.22,0.02,0.28,Direct,Overbooking
+706,City Hotel,275,166,111,Aug,4,11,318.1,0.48,0.19,Offline,Underbooking
+707,City Hotel,260,150,209,May,4,9,243.31,0.05,0.23,Travel Agent,Underbooking
+708,Resort Hotel,167,342,199,Jul,4,12,116.76,0.32,0.21,Travel Agent,Overbooking
+709,City Hotel,263,250,227,Jan,1,3,327.28,0.04,0.07,Travel Agent,Optimal
+710,City Hotel,141,151,290,Jul,4,3,212.2,0.43,0.24,Corporate,Overbooking
+711,City Hotel,123,246,340,Nov,2,1,122.27,0.3,0.32,Travel Agent,Overbooking
+712,City Hotel,98,346,218,Apr,3,11,151.37,0.01,0.06,Corporate,Overbooking
+713,City Hotel,289,230,276,Aug,2,1,269,0.28,0.19,Online,Optimal
+714,Resort Hotel,132,145,278,Oct,4,7,222.53,0.24,0,Corporate,Overbooking
+715,City Hotel,251,330,255,Oct,0,10,287.34,0.05,0.18,Offline,Overbooking
+716,City Hotel,203,300,329,Jul,4,13,366.22,0.09,0.07,Online,Overbooking
+717,City Hotel,242,237,134,Feb,1,13,246.03,0.41,0.02,Travel Agent,Optimal
+718,City Hotel,295,311,295,Jul,0,5,80.03,0.16,0.04,Offline,Overbooking
+719,Resort Hotel,248,131,120,Apr,1,12,390.52,0.01,0.34,Travel Agent,Underbooking
+720,Resort Hotel,238,308,219,Aug,4,13,145.9,0.35,0.28,Direct,Overbooking
+721,Resort Hotel,297,318,11,Jan,0,4,297.84,0.05,0.05,Online,Overbooking
+722,City Hotel,131,210,94,Jun,1,5,206.6,0.03,0.13,Offline,Overbooking
+723,City Hotel,272,234,356,Mar,2,8,210.9,0.53,0.09,Offline,Optimal
+724,City Hotel,229,114,148,Mar,0,7,63.83,0.38,0.08,Corporate,Underbooking
+725,Resort Hotel,181,97,132,Nov,4,8,177.01,0.06,0.03,Direct,Underbooking
+726,City Hotel,204,129,79,Sep,1,11,254.43,0.05,0.19,Offline,Underbooking
+727,Resort Hotel,264,307,80,Jun,3,7,252.4,0.36,0.23,Corporate,Overbooking
+728,City Hotel,225,102,2,Feb,4,3,236.9,0.02,0.01,Travel Agent,Underbooking
+729,Resort Hotel,110,268,16,Apr,1,9,377.36,0.14,0.1,Online,Overbooking
+730,Resort Hotel,115,164,258,Oct,1,5,349.45,0.49,0.29,Travel Agent,Overbooking
+731,Resort Hotel,262,169,354,Jan,3,1,198.42,0.17,0.25,Travel Agent,Underbooking
+732,City Hotel,108,279,148,Mar,0,6,61.88,0,0.34,Offline,Overbooking
+733,City Hotel,170,101,348,Apr,3,9,316.28,0.27,0.17,Travel Agent,Underbooking
+734,Resort Hotel,88,279,80,Feb,3,11,142.73,0.46,0.3,Direct,Overbooking
+735,Resort Hotel,103,89,44,Sep,1,13,270.09,0.22,0.2,Online,Optimal
+736,City Hotel,177,105,45,Oct,1,1,154.73,0.1,0.14,Corporate,Underbooking
+737,Resort Hotel,107,93,182,May,4,3,141.82,0.05,0.29,Offline,Optimal
+738,City Hotel,265,175,188,Mar,2,9,234.69,0.07,0.13,Online,Optimal
+739,City Hotel,143,298,115,Mar,4,3,104.11,0.44,0.28,Corporate,Overbooking
+740,Resort Hotel,271,157,275,Oct,3,7,76.34,0.23,0.19,Online,Underbooking
+741,Resort Hotel,94,148,102,Jul,3,10,268.15,0.56,0.19,Direct,Overbooking
+742,City Hotel,289,93,194,Dec,3,2,281.41,0.34,0.19,Direct,Underbooking
+743,City Hotel,186,137,27,Sep,1,8,177.83,0.08,0.06,Corporate,Optimal
+744,City Hotel,264,75,295,Mar,1,6,254.62,0.29,0.29,Online,Underbooking
+745,Resort Hotel,149,128,285,Sep,0,5,389.4,0.17,0.27,Direct,Optimal
+746,Resort Hotel,105,247,2,Jun,0,3,207.65,0.37,0.18,Corporate,Overbooking
+747,Resort Hotel,136,72,325,Jun,0,2,232.9,0.01,0.22,Online,Underbooking
+748,Resort Hotel,170,106,265,May,2,5,177.57,0.59,0.13,Online,Underbooking
+749,Resort Hotel,99,240,218,Jun,2,4,188.08,0.23,0.14,Offline,Overbooking
+750,Resort Hotel,90,174,357,Mar,4,11,332.8,0.05,0.04,Offline,Overbooking
+751,Resort Hotel,116,294,327,Jul,3,7,148.88,0.33,0.28,Online,Overbooking
+752,Resort Hotel,125,138,133,Jul,1,10,174.41,0.24,0.32,Online,Overbooking
+753,Resort Hotel,260,167,105,Apr,0,9,367.14,0.58,0.31,Offline,Underbooking
+754,City Hotel,138,154,20,Feb,1,3,251.44,0.54,0.14,Direct,Overbooking
+755,Resort Hotel,179,61,37,Mar,0,9,238.61,0.41,0.05,Online,Underbooking
+756,City Hotel,92,198,44,Feb,0,7,289.25,0.45,0.15,Direct,Overbooking
+757,City Hotel,245,132,150,Nov,3,13,225.11,0.33,0.16,Corporate,Underbooking
+758,City Hotel,165,219,162,Dec,0,6,301.76,0.54,0.14,Direct,Overbooking
+759,City Hotel,282,165,231,Dec,0,7,237.49,0.5,0.06,Travel Agent,Underbooking
+760,City Hotel,271,299,216,Sep,1,8,271.95,0.29,0.27,Corporate,Overbooking
+761,Resort Hotel,93,177,39,Nov,3,11,97.52,0.44,0.27,Direct,Overbooking
+762,Resort Hotel,119,87,124,Nov,3,6,295.21,0.33,0.13,Travel Agent,Optimal
+763,Resort Hotel,213,285,13,Aug,4,4,121.5,0.05,0.11,Online,Overbooking
+764,City Hotel,264,101,12,Jul,0,8,284.33,0.16,0.06,Offline,Underbooking
+765,City Hotel,86,346,356,Feb,1,3,309.52,0.3,0.05,Direct,Overbooking
+766,City Hotel,242,214,359,Sep,1,13,393.92,0.05,0.19,Direct,Optimal
+767,City Hotel,213,146,15,Nov,0,6,280.42,0.36,0.23,Online,Optimal
+768,City Hotel,135,90,308,Jan,4,1,389.35,0.53,0.29,Corporate,Optimal
+769,Resort Hotel,96,202,149,Nov,1,4,367.3,0.21,0.22,Corporate,Overbooking
+770,Resort Hotel,115,58,234,Nov,1,4,279.99,0.28,0.21,Travel Agent,Underbooking
+771,Resort Hotel,158,60,48,Jul,2,12,294.73,0,0.09,Corporate,Underbooking
+772,Resort Hotel,234,317,162,Jul,1,13,260.9,0.55,0.01,Direct,Overbooking
+773,Resort Hotel,182,231,55,Feb,3,2,65.1,0.28,0.3,Direct,Overbooking
+774,City Hotel,150,192,3,Feb,3,10,124.52,0.57,0.27,Travel Agent,Overbooking
+775,Resort Hotel,281,340,360,Feb,3,4,142.03,0.02,0.34,Direct,Overbooking
+776,City Hotel,265,58,338,Jan,1,10,166.48,0.03,0.3,Online,Underbooking
+777,City Hotel,102,225,120,Dec,0,11,64.64,0.44,0.17,Corporate,Overbooking
+778,Resort Hotel,147,312,111,Nov,4,4,62.06,0.44,0.17,Online,Overbooking
+779,Resort Hotel,209,76,39,Jul,4,5,78.86,0.19,0.05,Online,Underbooking
+780,Resort Hotel,195,185,32,Aug,3,11,97.53,0.17,0.24,Offline,Optimal
+781,Resort Hotel,137,110,80,Jul,2,12,278.16,0.13,0.26,Corporate,Optimal
+782,Resort Hotel,241,125,255,Nov,4,4,63.78,0.57,0.08,Travel Agent,Underbooking
+783,Resort Hotel,190,151,114,Jan,1,11,333.36,0.24,0.03,Offline,Optimal
+784,City Hotel,113,53,101,Sep,4,7,249.87,0.2,0.09,Online,Underbooking
+785,Resort Hotel,159,204,282,Dec,1,9,92.99,0.59,0.19,Online,Overbooking
+786,Resort Hotel,238,67,27,Jun,2,8,176.28,0.36,0.01,Offline,Underbooking
+787,Resort Hotel,99,163,280,Jan,4,2,311.43,0.15,0.25,Travel Agent,Overbooking
+788,City Hotel,158,61,244,Jan,0,10,130.36,0.38,0.04,Corporate,Underbooking
+789,City Hotel,277,212,166,Jul,4,11,300.57,0.07,0.11,Online,Optimal
+790,Resort Hotel,224,195,136,Nov,3,2,237.96,0.24,0.02,Corporate,Optimal
+791,City Hotel,124,315,158,Oct,0,2,184.98,0.35,0.3,Online,Overbooking
+792,Resort Hotel,276,181,172,Dec,2,1,326.4,0.16,0.25,Online,Optimal
+793,Resort Hotel,159,150,208,Feb,0,11,153.53,0.29,0.28,Direct,Optimal
+794,Resort Hotel,209,78,174,Oct,1,9,386.94,0.49,0,Direct,Underbooking
+795,City Hotel,220,170,315,Sep,1,5,344.59,0.13,0.27,Online,Optimal
+796,City Hotel,84,105,14,May,2,2,89.2,0.21,0.2,Corporate,Overbooking
+797,Resort Hotel,98,242,302,Apr,4,4,245.08,0.48,0.26,Travel Agent,Overbooking
+798,City Hotel,287,285,189,Sep,4,2,115.66,0.59,0.23,Offline,Optimal
+799,Resort Hotel,102,348,57,Jul,1,2,239.22,0.1,0.11,Offline,Overbooking
+800,City Hotel,169,250,183,May,4,5,238.09,0.39,0.14,Travel Agent,Overbooking
+801,Resort Hotel,113,67,107,Jun,3,9,101.42,0.58,0.31,Direct,Underbooking
+802,Resort Hotel,216,314,225,Aug,3,7,380.31,0.35,0.24,Travel Agent,Overbooking
+803,City Hotel,216,167,307,Feb,3,12,66.99,0.42,0.27,Online,Optimal
+804,City Hotel,106,213,348,Dec,0,10,347.6,0.16,0.21,Offline,Overbooking
+805,Resort Hotel,125,298,214,Jul,2,11,237.96,0.15,0.07,Direct,Overbooking
+806,Resort Hotel,131,317,235,May,1,13,203.83,0.56,0.32,Online,Overbooking
+807,City Hotel,216,280,37,Mar,2,5,78.36,0.09,0.11,Direct,Overbooking
+808,City Hotel,89,197,255,Feb,2,3,60.71,0.52,0.31,Travel Agent,Overbooking
+809,Resort Hotel,200,111,8,Jan,2,1,382.06,0.5,0.11,Corporate,Underbooking
+810,Resort Hotel,265,142,124,Nov,4,2,221.78,0.13,0.03,Offline,Underbooking
+811,Resort Hotel,99,69,86,Jun,3,8,298.85,0.53,0.3,Direct,Optimal
+812,Resort Hotel,81,313,204,Mar,2,5,89.49,0.58,0.29,Offline,Overbooking
+813,City Hotel,202,191,354,Oct,2,10,337.1,0.18,0.2,Offline,Optimal
+814,Resort Hotel,115,283,117,Jan,2,12,73.85,0.58,0.21,Travel Agent,Overbooking
+815,City Hotel,242,96,184,Jan,2,13,241.57,0.47,0.15,Corporate,Underbooking
+816,City Hotel,233,172,238,Feb,0,1,307.57,0.49,0.3,Online,Optimal
+817,Resort Hotel,148,233,40,Apr,4,9,131.57,0.24,0.1,Offline,Overbooking
+818,City Hotel,232,315,247,Jun,1,7,255.94,0.47,0.31,Online,Overbooking
+819,Resort Hotel,159,103,128,Jan,3,7,117.4,0.55,0.04,Online,Underbooking
+820,Resort Hotel,236,195,136,Jan,1,9,201.5,0.6,0.28,Travel Agent,Optimal
+821,Resort Hotel,219,61,174,Aug,3,6,276.09,0.53,0.2,Travel Agent,Underbooking
+822,Resort Hotel,276,224,128,Oct,4,13,232.36,0.16,0.06,Corporate,Optimal
+823,City Hotel,253,129,291,Sep,1,10,385.54,0.06,0.1,Travel Agent,Underbooking
+824,City Hotel,165,210,317,May,3,11,365.72,0.11,0.22,Online,Overbooking
+825,Resort Hotel,291,276,42,Mar,3,3,68.36,0.18,0.12,Direct,Optimal
+826,Resort Hotel,161,108,263,Apr,3,1,373.71,0.51,0.25,Direct,Optimal
+827,Resort Hotel,169,279,177,Mar,1,13,163.96,0.46,0.24,Travel Agent,Overbooking
+828,City Hotel,255,71,300,Sep,3,5,237.23,0.29,0.03,Offline,Underbooking
+829,Resort Hotel,220,72,304,May,0,4,148.65,0.27,0.18,Online,Underbooking
+830,City Hotel,139,132,170,Apr,1,1,293.52,0.11,0.14,Direct,Optimal
+831,Resort Hotel,253,180,349,Dec,4,6,108.15,0.33,0.04,Online,Optimal
+832,City Hotel,104,170,91,May,4,1,201.63,0.58,0,Online,Overbooking
+833,Resort Hotel,161,271,67,Oct,1,8,376.8,0.02,0.31,Online,Overbooking
+834,City Hotel,270,133,63,Aug,2,8,164.01,0.32,0.21,Offline,Underbooking
+835,City Hotel,158,210,52,Apr,3,1,116.02,0.33,0.21,Direct,Overbooking
+836,Resort Hotel,144,340,256,Sep,1,12,177.88,0.05,0.3,Online,Overbooking
+837,Resort Hotel,205,166,224,Aug,0,12,256.6,0.55,0.08,Online,Optimal
+838,City Hotel,119,120,289,May,3,6,228.61,0.01,0.26,Direct,Overbooking
+839,Resort Hotel,137,192,86,Dec,4,2,242.61,0.28,0.03,Offline,Overbooking
+840,City Hotel,286,167,355,Mar,3,12,313.19,0.55,0.08,Corporate,Underbooking
+841,Resort Hotel,137,143,168,Sep,0,6,213.51,0.54,0.34,Online,Overbooking
+842,City Hotel,222,315,38,Feb,4,5,110.35,0.53,0.12,Travel Agent,Overbooking
+843,Resort Hotel,148,240,224,Sep,1,8,269.68,0.46,0.32,Offline,Overbooking
+844,Resort Hotel,116,119,107,Apr,0,5,79.1,0.08,0.19,Offline,Overbooking
+845,Resort Hotel,127,294,328,Nov,2,10,91.28,0.34,0.03,Offline,Overbooking
+846,City Hotel,298,295,323,Oct,4,13,112.53,0.4,0.28,Corporate,Optimal
+847,Resort Hotel,128,304,316,Jan,3,13,256.03,0.48,0.1,Offline,Overbooking
+848,City Hotel,109,248,78,Oct,2,4,176.84,0.57,0.17,Corporate,Overbooking
+849,City Hotel,290,281,169,Feb,3,4,307.08,0.34,0.02,Offline,Optimal
+850,Resort Hotel,84,192,151,Jan,4,9,220.16,0.58,0.27,Travel Agent,Overbooking
+851,City Hotel,264,102,217,Sep,0,3,366.33,0.1,0.27,Offline,Underbooking
+852,Resort Hotel,235,92,139,Nov,3,9,160.29,0.28,0.19,Online,Underbooking
+853,Resort Hotel,97,330,182,Oct,0,3,296.48,0.43,0.07,Direct,Overbooking
+854,Resort Hotel,157,320,61,Mar,2,7,372.29,0.15,0.04,Corporate,Overbooking
+855,City Hotel,236,56,277,May,0,10,201.02,0.3,0.04,Online,Underbooking
+856,Resort Hotel,252,280,46,Apr,2,12,81.21,0.34,0.22,Offline,Overbooking
+857,Resort Hotel,253,152,283,Oct,1,6,383.26,0.3,0.03,Online,Underbooking
+858,Resort Hotel,94,320,284,Sep,4,8,183.52,0.5,0.09,Offline,Overbooking
+859,City Hotel,264,333,68,Apr,3,7,86.91,0.04,0.33,Online,Overbooking
+860,Resort Hotel,229,312,268,Sep,0,3,155.19,0.51,0.34,Travel Agent,Overbooking
+861,Resort Hotel,161,283,236,Sep,4,6,97.43,0.17,0.33,Offline,Overbooking
+862,City Hotel,128,147,103,May,2,10,322.65,0.48,0.29,Online,Overbooking
+863,City Hotel,194,122,31,Oct,2,7,239.43,0.38,0.08,Online,Underbooking
+864,Resort Hotel,203,97,298,Nov,3,8,71.07,0.27,0.34,Corporate,Underbooking
+865,Resort Hotel,292,236,137,Jun,1,12,178.03,0.18,0.06,Direct,Optimal
+866,Resort Hotel,135,103,36,Jun,4,4,118.1,0.17,0.3,Travel Agent,Optimal
+867,City Hotel,95,179,363,Jul,1,7,206.67,0.18,0.3,Travel Agent,Overbooking
+868,Resort Hotel,129,111,180,Jul,2,4,367.84,0.43,0.08,Corporate,Optimal
+869,City Hotel,163,201,230,Oct,0,8,161.19,0.51,0.1,Online,Overbooking
+870,City Hotel,219,180,213,Oct,2,7,396.22,0.26,0.2,Direct,Optimal
+871,Resort Hotel,235,340,90,Sep,1,13,226.38,0.27,0.17,Direct,Overbooking
+872,City Hotel,185,271,68,Feb,3,11,315.3,0.51,0.09,Corporate,Overbooking
+873,Resort Hotel,223,264,211,Feb,3,6,336.91,0.3,0.2,Offline,Overbooking
+874,City Hotel,240,96,143,Sep,1,13,323.02,0.46,0.23,Offline,Underbooking
+875,City Hotel,172,155,19,Jun,3,11,171.45,0.16,0.17,Corporate,Optimal
+876,City Hotel,157,271,310,Aug,2,2,68.72,0.36,0.01,Corporate,Overbooking
+877,Resort Hotel,150,337,350,Jan,1,10,205.51,0.4,0.04,Direct,Overbooking
+878,City Hotel,156,250,305,Jun,4,7,377.24,0.13,0.33,Travel Agent,Overbooking
+879,City Hotel,260,179,250,Jul,4,10,333.71,0.49,0.03,Travel Agent,Optimal
+880,City Hotel,239,90,232,Sep,1,8,102.33,0.49,0.05,Online,Underbooking
+881,Resort Hotel,266,182,103,Nov,4,13,99.83,0.59,0.16,Online,Optimal
+882,City Hotel,245,212,267,Dec,4,10,79.75,0.3,0.2,Online,Optimal
+883,Resort Hotel,289,326,238,Aug,1,2,84.82,0.29,0.28,Offline,Overbooking
+884,Resort Hotel,260,263,145,Aug,2,2,118.66,0.05,0.31,Online,Overbooking
+885,City Hotel,143,315,228,Oct,2,2,173.18,0.04,0.13,Offline,Overbooking
+886,Resort Hotel,214,89,163,Oct,2,2,185.8,0.31,0.34,Travel Agent,Underbooking
+887,City Hotel,158,221,204,Jul,3,1,268.53,0.5,0.28,Corporate,Overbooking
+888,City Hotel,85,88,187,Aug,0,4,181.7,0.42,0.04,Online,Overbooking
+889,Resort Hotel,223,312,216,Mar,3,5,149.67,0.41,0.08,Travel Agent,Overbooking
+890,Resort Hotel,120,267,148,Jun,2,6,242.43,0.26,0.26,Offline,Overbooking
+891,Resort Hotel,211,161,351,Dec,1,4,201.19,0.2,0.17,Online,Optimal
+892,City Hotel,174,167,217,Jun,0,2,258.93,0.55,0.08,Corporate,Optimal
+893,Resort Hotel,110,274,295,Sep,2,3,135.19,0.17,0.11,Corporate,Overbooking
+894,City Hotel,198,156,353,Aug,1,8,336.94,0.11,0.29,Corporate,Optimal
+895,City Hotel,180,258,11,May,1,6,150.4,0.57,0.33,Offline,Overbooking
+896,City Hotel,81,230,132,May,2,6,280.98,0.55,0.16,Offline,Overbooking
+897,Resort Hotel,239,290,132,Feb,1,6,281.35,0.37,0.08,Offline,Overbooking
+898,City Hotel,215,195,88,Apr,3,11,352.7,0.24,0.19,Offline,Optimal
+899,City Hotel,102,199,7,Sep,0,5,180.55,0.42,0.19,Online,Overbooking
+900,Resort Hotel,118,107,181,Apr,1,1,237.68,0.08,0.24,Offline,Optimal
+901,Resort Hotel,287,88,159,Oct,0,3,370.78,0.42,0.1,Offline,Underbooking
+902,City Hotel,231,307,195,Apr,4,10,104.75,0.32,0.33,Online,Overbooking
+903,Resort Hotel,91,160,332,Mar,4,4,162.3,0.11,0.22,Direct,Overbooking
+904,City Hotel,145,150,87,Mar,4,13,276.53,0.27,0.32,Direct,Overbooking
+905,City Hotel,277,126,162,Sep,1,7,242.96,0.6,0.26,Offline,Underbooking
+906,Resort Hotel,264,86,13,Jun,2,13,261.65,0.34,0.02,Direct,Underbooking
+907,City Hotel,235,213,58,May,4,9,134.62,0.39,0.06,Online,Optimal
+908,Resort Hotel,175,153,21,Dec,0,12,129.88,0.12,0.09,Travel Agent,Optimal
+909,Resort Hotel,242,100,142,Dec,1,4,247.62,0.47,0.23,Online,Underbooking
+910,City Hotel,206,315,299,Sep,3,6,117.58,0.53,0.3,Offline,Overbooking
+911,City Hotel,188,227,61,Nov,0,12,78.41,0.31,0.14,Corporate,Overbooking
+912,City Hotel,239,212,44,Oct,4,2,234.76,0.55,0.23,Direct,Optimal
+913,City Hotel,101,333,259,Oct,4,11,66.62,0.29,0.16,Corporate,Overbooking
+914,Resort Hotel,204,185,343,Nov,0,1,252.21,0.32,0.18,Corporate,Optimal
+915,City Hotel,108,195,43,Jan,4,1,213.26,0.55,0.3,Offline,Overbooking
+916,City Hotel,185,256,26,Mar,0,4,223.16,0.39,0.2,Offline,Overbooking
+917,Resort Hotel,215,148,65,Aug,1,4,288.46,0.12,0.19,Travel Agent,Optimal
+918,City Hotel,195,207,126,Mar,2,12,168.72,0.4,0.14,Online,Overbooking
+919,City Hotel,247,97,288,Apr,0,5,151.17,0.55,0.26,Corporate,Underbooking
+920,Resort Hotel,198,217,241,May,4,10,60.54,0.37,0.11,Travel Agent,Overbooking
+921,City Hotel,82,123,118,May,2,2,355.63,0.6,0.09,Online,Overbooking
+922,Resort Hotel,156,329,25,May,3,5,325.3,0.15,0.27,Online,Overbooking
+923,Resort Hotel,257,281,60,Jan,4,2,168.52,0.53,0.01,Travel Agent,Overbooking
+924,City Hotel,198,215,304,Mar,1,5,368.21,0.46,0.29,Offline,Overbooking
+925,Resort Hotel,153,147,28,Jun,1,8,386.26,0.57,0.19,Online,Optimal
+926,Resort Hotel,122,282,74,Nov,4,3,64.69,0.54,0.04,Online,Overbooking
+927,City Hotel,285,99,187,Oct,2,4,252.03,0.27,0.26,Direct,Underbooking
+928,Resort Hotel,272,206,164,Nov,2,3,250.83,0.14,0.14,Online,Optimal
+929,Resort Hotel,83,342,280,Jun,1,12,279.43,0.11,0.17,Travel Agent,Overbooking
+930,Resort Hotel,187,263,167,Feb,4,3,273.07,0.3,0.16,Offline,Overbooking
+931,Resort Hotel,204,325,279,Jan,3,1,164.3,0.25,0.19,Online,Overbooking
+932,Resort Hotel,111,278,39,Mar,2,3,117.37,0.2,0.33,Online,Overbooking
+933,Resort Hotel,255,287,136,Nov,1,9,333.6,0.14,0.2,Online,Overbooking
+934,City Hotel,104,235,5,Jun,2,2,277.51,0.33,0.19,Corporate,Overbooking
+935,City Hotel,161,60,314,Jul,2,1,385.78,0.28,0.15,Offline,Underbooking
+936,Resort Hotel,166,336,53,Sep,1,8,197.91,0.4,0.2,Offline,Overbooking
+937,City Hotel,85,265,51,Oct,4,1,352.66,0.45,0.16,Online,Overbooking
+938,City Hotel,238,86,157,Jul,1,11,224.49,0.03,0.01,Online,Underbooking
+939,City Hotel,185,133,115,Apr,3,8,138.71,0.24,0.31,Direct,Optimal
+940,Resort Hotel,280,190,42,Jun,1,8,124.24,0.14,0.21,Online,Optimal
+941,Resort Hotel,284,342,351,Jan,0,10,394.81,0.18,0.06,Corporate,Overbooking
+942,City Hotel,206,257,332,Apr,4,2,107.36,0.39,0.04,Online,Overbooking
+943,City Hotel,168,102,6,Aug,0,9,390.86,0.01,0.26,Online,Underbooking
+944,City Hotel,157,291,29,Oct,1,7,390.2,0.37,0.11,Online,Overbooking
+945,City Hotel,88,260,1,Jun,4,6,317.19,0.42,0.1,Travel Agent,Overbooking
+946,City Hotel,192,281,276,Dec,2,11,327.26,0.11,0.18,Corporate,Overbooking
+947,City Hotel,144,205,132,Jan,4,9,213.19,0.51,0.11,Corporate,Overbooking
+948,Resort Hotel,96,307,323,Jun,3,6,323.73,0.25,0.09,Corporate,Overbooking
+949,Resort Hotel,232,288,284,Jan,0,8,277.43,0.27,0.12,Online,Overbooking
+950,Resort Hotel,218,332,343,May,1,12,358.34,0.43,0.04,Direct,Overbooking
+951,City Hotel,125,284,207,Jun,3,8,333.82,0.03,0.35,Online,Overbooking
+952,City Hotel,264,173,9,Mar,1,2,188.84,0.19,0.24,Offline,Optimal
+953,City Hotel,134,191,129,Feb,0,12,364.86,0.48,0.24,Corporate,Overbooking
+954,Resort Hotel,140,276,231,Feb,0,1,206.39,0.43,0.25,Direct,Overbooking
+955,City Hotel,183,185,106,Feb,1,5,354.2,0.32,0.15,Online,Overbooking
+956,City Hotel,298,77,25,Jul,0,1,190.54,0.12,0.13,Direct,Underbooking
+957,Resort Hotel,131,237,114,Jun,3,7,166.33,0.19,0.19,Travel Agent,Overbooking
+958,Resort Hotel,194,347,37,Nov,1,13,284.66,0.13,0.19,Travel Agent,Overbooking
+959,City Hotel,129,257,187,Mar,1,10,372.48,0.31,0.16,Online,Overbooking
+960,City Hotel,92,60,194,Nov,4,6,338.76,0.59,0.32,Offline,Optimal
+961,Resort Hotel,173,110,238,Apr,1,10,270.24,0.02,0.07,Online,Underbooking
+962,Resort Hotel,265,171,323,Jan,2,8,143.28,0.52,0.22,Corporate,Underbooking
+963,Resort Hotel,285,78,122,Apr,1,5,315.58,0.53,0.19,Travel Agent,Underbooking
+964,City Hotel,182,132,217,Dec,3,12,181.73,0.33,0.26,Corporate,Optimal
+965,Resort Hotel,252,206,113,Aug,3,5,224.41,0.39,0.28,Corporate,Optimal
+966,Resort Hotel,270,302,363,Jul,3,12,95.83,0.21,0.35,Offline,Overbooking
+967,Resort Hotel,150,122,80,Jun,0,4,62.93,0.47,0.05,Travel Agent,Optimal
+968,City Hotel,254,271,183,Apr,0,6,345.65,0.06,0.23,Direct,Overbooking
+969,Resort Hotel,253,226,190,Feb,3,12,105.47,0.54,0.22,Travel Agent,Optimal
+970,City Hotel,124,163,127,Aug,0,1,276.04,0.23,0.34,Offline,Overbooking
+971,City Hotel,284,201,122,Mar,0,7,184.86,0.37,0.02,Online,Optimal
+972,City Hotel,159,300,19,Jan,2,6,183.07,0.36,0.27,Travel Agent,Overbooking
+973,City Hotel,172,60,303,Sep,0,7,358.91,0.33,0.13,Online,Underbooking
+974,Resort Hotel,281,87,356,Jan,1,13,82.25,0.42,0.18,Offline,Underbooking
+975,Resort Hotel,164,256,309,Jun,3,8,395.72,0.58,0.34,Corporate,Overbooking
+976,City Hotel,159,99,207,Oct,0,3,139.37,0.28,0.01,Online,Underbooking
+977,City Hotel,261,275,48,Oct,2,11,219.39,0.5,0.21,Offline,Overbooking
+978,Resort Hotel,232,267,104,Nov,4,10,287.45,0.08,0.13,Online,Overbooking
+979,Resort Hotel,251,306,5,Aug,2,8,133.14,0.59,0.3,Travel Agent,Overbooking
+980,City Hotel,163,124,270,Mar,0,9,183.69,0.05,0.2,Online,Optimal
+981,City Hotel,113,308,233,Nov,0,11,294.36,0.35,0.35,Travel Agent,Overbooking
+982,Resort Hotel,93,298,218,Mar,0,7,389.78,0.21,0.14,Online,Overbooking
+983,Resort Hotel,106,212,92,Dec,2,2,68.89,0.03,0.32,Offline,Overbooking
+984,Resort Hotel,294,162,321,Nov,4,6,180.79,0.01,0.05,Offline,Underbooking
+985,Resort Hotel,90,274,305,Jan,0,13,161.67,0.05,0.1,Offline,Overbooking
+986,Resort Hotel,118,232,36,May,2,13,86.5,0.17,0.32,Travel Agent,Overbooking
+987,City Hotel,109,247,10,Sep,4,13,230.86,0.59,0.2,Corporate,Overbooking
+988,Resort Hotel,286,235,297,Jun,3,10,86.57,0.28,0.28,Offline,Optimal
+989,City Hotel,103,113,240,Sep,3,3,356.46,0.57,0.18,Travel Agent,Overbooking
+990,Resort Hotel,166,266,356,Apr,1,8,300.99,0.43,0.02,Offline,Overbooking
+991,Resort Hotel,137,208,313,Dec,1,2,95.89,0.28,0.17,Direct,Overbooking
+992,Resort Hotel,262,104,328,Feb,1,13,327.13,0.43,0.31,Travel Agent,Underbooking
+993,City Hotel,256,264,23,Apr,4,5,190.05,0.54,0.17,Offline,Overbooking
+994,City Hotel,193,114,311,Jun,4,12,244.75,0.45,0.06,Corporate,Underbooking
+995,City Hotel,122,79,255,Jul,0,13,141.6,0.28,0.26,Travel Agent,Underbooking
+996,City Hotel,281,321,76,May,3,7,396.94,0.45,0.32,Corporate,Overbooking
+997,Resort Hotel,296,319,280,Mar,4,8,309.16,0.44,0.25,Travel Agent,Overbooking
+998,Resort Hotel,242,292,341,Oct,1,12,380.04,0.08,0.19,Travel Agent,Overbooking
+999,City Hotel,128,302,30,Dec,1,12,214.46,0.6,0.22,Online,Overbooking
+1000,Resort Hotel,158,53,26,Mar,2,10,203.16,0,0.3,Travel Agent,Underbooking
+1001,City Hotel,176,167,188,Oct,4,12,391.04,0.07,0.15,Offline,Optimal
+1002,City Hotel,295,279,363,Oct,2,12,366.48,0.11,0.03,Travel Agent,Optimal
+1003,Resort Hotel,172,299,356,Sep,2,4,74.64,0.5,0.17,Online,Overbooking
+1004,Resort Hotel,133,129,149,Nov,0,6,143.82,0.08,0.15,Offline,Optimal
+1005,City Hotel,289,95,101,Aug,1,1,393.23,0.31,0.3,Direct,Underbooking
+1006,City Hotel,233,249,312,Oct,2,11,304.01,0.21,0.06,Offline,Overbooking
+1007,City Hotel,118,343,334,Nov,4,4,196.35,0.4,0.04,Offline,Overbooking
+1008,Resort Hotel,200,103,263,Jul,1,10,154.21,0.53,0.25,Corporate,Underbooking
+1009,City Hotel,180,130,253,Jun,3,10,81.17,0.27,0.13,Corporate,Optimal
+1010,City Hotel,199,267,204,Apr,2,11,109.92,0.14,0.05,Corporate,Overbooking
+1011,City Hotel,278,295,122,Apr,4,9,165.52,0.02,0.3,Direct,Overbooking
+1012,City Hotel,149,334,325,Mar,3,9,254.76,0.17,0.05,Offline,Overbooking
+1013,City Hotel,281,170,115,Nov,4,1,239.7,0.18,0.2,Corporate,Underbooking
+1014,Resort Hotel,134,94,179,Jan,1,3,300.78,0.05,0.2,Offline,Optimal
+1015,Resort Hotel,198,121,143,May,4,5,393.04,0.38,0.12,Direct,Underbooking
+1016,Resort Hotel,171,239,349,Dec,2,1,61.72,0.24,0.27,Travel Agent,Overbooking
+1017,Resort Hotel,194,345,47,May,1,4,217.01,0,0.11,Online,Overbooking
+1018,Resort Hotel,137,312,49,Feb,4,12,267.58,0.06,0.12,Online,Overbooking
+1019,Resort Hotel,120,146,325,Jun,0,5,362.92,0.28,0.3,Travel Agent,Overbooking
+1020,City Hotel,219,300,206,Jun,1,8,134.95,0.03,0.26,Corporate,Overbooking
+1021,Resort Hotel,233,154,287,Sep,0,3,161.68,0.44,0.23,Online,Optimal
+1022,Resort Hotel,185,160,26,Jul,3,13,140.19,0.21,0.14,Online,Optimal
+1023,Resort Hotel,181,210,61,Apr,2,11,311.43,0.58,0.24,Travel Agent,Overbooking
+1024,City Hotel,227,236,217,Oct,2,8,150.9,0.58,0.07,Corporate,Overbooking
+1025,Resort Hotel,281,179,300,Jun,0,1,391.34,0.19,0.18,Corporate,Underbooking
+1026,Resort Hotel,148,185,60,Nov,1,6,171.51,0.42,0.2,Online,Overbooking
+1027,Resort Hotel,248,337,350,Nov,1,6,176.45,0.43,0.35,Direct,Overbooking
+1028,Resort Hotel,132,95,313,Jul,0,9,212.32,0.54,0.16,Direct,Optimal
+1029,Resort Hotel,230,164,14,Jun,0,3,252.04,0.52,0.22,Online,Optimal
+1030,Resort Hotel,278,195,66,Jul,0,5,278.55,0.4,0.15,Online,Optimal
+1031,City Hotel,230,184,133,May,0,3,170.83,0.05,0.29,Offline,Optimal
+1032,City Hotel,133,211,253,Nov,4,1,145.56,0.46,0.23,Online,Overbooking
+1033,Resort Hotel,239,157,73,Jan,3,8,207.85,0.48,0.09,Online,Optimal
+1034,Resort Hotel,235,135,356,Mar,2,5,118.68,0.43,0.3,Corporate,Underbooking
+1035,Resort Hotel,232,288,32,Aug,3,12,269.38,0.34,0.18,Direct,Overbooking
+1036,City Hotel,84,96,334,Dec,0,5,209.12,0.21,0.02,Corporate,Overbooking
+1037,Resort Hotel,96,167,141,May,4,6,111.5,0.14,0.14,Direct,Overbooking
+1038,City Hotel,113,140,342,Jan,1,13,173.5,0.53,0.35,Direct,Overbooking
+1039,City Hotel,85,153,236,May,2,2,91.03,0.45,0.15,Offline,Overbooking
+1040,Resort Hotel,290,265,8,Jun,0,13,289.94,0.16,0.25,Direct,Optimal
+1041,Resort Hotel,160,200,76,May,0,3,91.56,0.42,0.27,Corporate,Overbooking
+1042,City Hotel,173,146,263,Apr,3,10,78.22,0.37,0.11,Corporate,Optimal
+1043,City Hotel,213,255,37,Sep,0,11,85.27,0.15,0.31,Corporate,Overbooking
+1044,City Hotel,98,172,155,Nov,0,7,164.05,0.21,0.21,Travel Agent,Overbooking
+1045,City Hotel,244,324,114,May,3,2,147.1,0.28,0.05,Travel Agent,Overbooking
+1046,Resort Hotel,120,297,181,Jan,0,6,202.44,0.25,0.04,Online,Overbooking
+1047,Resort Hotel,94,76,96,Sep,2,4,207.75,0.41,0.2,Offline,Optimal
+1048,Resort Hotel,126,238,27,Mar,2,10,108.84,0.53,0.32,Corporate,Overbooking
+1049,City Hotel,217,135,70,Jan,4,8,69.8,0.4,0.09,Online,Underbooking
+1050,City Hotel,118,257,264,Jun,2,6,287.48,0.53,0.06,Travel Agent,Overbooking
+1051,Resort Hotel,120,183,111,Mar,2,13,232.65,0.57,0.31,Corporate,Overbooking
+1052,City Hotel,104,322,251,May,3,11,366.34,0.03,0.34,Travel Agent,Overbooking
+1053,Resort Hotel,251,298,115,Jul,2,11,368.96,0.08,0.03,Offline,Overbooking
+1054,Resort Hotel,239,277,337,Nov,2,6,296.57,0.35,0.11,Offline,Overbooking
+1055,Resort Hotel,152,200,131,Jun,1,6,280.02,0.45,0.23,Offline,Overbooking
+1056,Resort Hotel,253,123,285,Oct,2,6,159.38,0.41,0.1,Corporate,Underbooking
+1057,City Hotel,162,249,304,Oct,4,4,137.68,0.02,0.29,Corporate,Overbooking
+1058,Resort Hotel,139,227,219,Dec,4,6,240,0.58,0.13,Travel Agent,Overbooking
+1059,City Hotel,185,85,322,Jan,2,6,334.93,0.56,0.06,Direct,Underbooking
+1060,City Hotel,96,94,170,Sep,3,6,278.73,0.47,0.13,Travel Agent,Optimal
+1061,City Hotel,83,115,111,Nov,4,1,324.24,0.27,0.23,Offline,Overbooking
+1062,Resort Hotel,138,270,13,Sep,4,11,387.61,0.29,0.1,Direct,Overbooking
+1063,City Hotel,95,225,363,Oct,0,11,195.55,0.45,0.17,Travel Agent,Overbooking
+1064,City Hotel,293,227,131,Apr,2,9,238.63,0.42,0.17,Offline,Optimal
+1065,City Hotel,127,276,255,Nov,1,1,315.29,0.22,0.26,Corporate,Overbooking
+1066,City Hotel,258,291,226,Mar,1,10,119.64,0.11,0.26,Travel Agent,Overbooking
+1067,City Hotel,247,136,43,Jul,0,3,209.16,0.2,0.29,Online,Underbooking
+1068,City Hotel,103,131,174,Jan,1,13,288.94,0.16,0.21,Direct,Overbooking
+1069,Resort Hotel,225,223,151,Nov,2,1,199.98,0.02,0.02,Direct,Optimal
+1070,City Hotel,277,182,157,Nov,1,2,246.49,0.05,0.12,Online,Optimal
+1071,City Hotel,90,211,5,Feb,1,6,328.15,0.25,0.34,Direct,Overbooking
+1072,City Hotel,191,95,188,Sep,4,2,350.81,0.02,0.21,Direct,Underbooking
+1073,City Hotel,195,166,174,Jan,0,12,237.56,0.33,0.14,Travel Agent,Optimal
+1074,City Hotel,107,307,157,Jun,4,10,165.27,0.07,0.17,Offline,Overbooking
+1075,City Hotel,283,331,292,Mar,0,6,309.91,0.22,0.26,Offline,Overbooking
+1076,Resort Hotel,237,65,183,Oct,0,1,387.6,0.06,0.34,Travel Agent,Underbooking
+1077,Resort Hotel,220,341,94,Jan,0,7,384.82,0.54,0.21,Online,Overbooking
+1078,Resort Hotel,117,248,338,Sep,1,11,200.78,0.49,0.06,Direct,Overbooking
+1079,Resort Hotel,109,161,154,Jan,2,11,391.39,0.58,0.19,Online,Overbooking
+1080,Resort Hotel,263,112,316,May,2,2,157.82,0.59,0.31,Offline,Underbooking
+1081,City Hotel,113,296,292,Aug,4,6,128.57,0.28,0.09,Offline,Overbooking
+1082,City Hotel,164,139,7,Sep,1,11,99.31,0.41,0.23,Corporate,Optimal
+1083,Resort Hotel,291,85,249,Jul,0,11,241.15,0.09,0.09,Corporate,Underbooking
+1084,City Hotel,185,333,172,Oct,3,8,178.59,0.1,0.22,Online,Overbooking
+1085,Resort Hotel,282,254,244,Jul,3,7,75.43,0.36,0.08,Direct,Optimal
+1086,City Hotel,119,83,121,Feb,0,4,365.41,0.49,0.16,Online,Optimal
+1087,Resort Hotel,190,321,105,Oct,0,2,120.41,0.52,0.35,Corporate,Overbooking
+1088,Resort Hotel,163,116,3,Jun,3,3,376.19,0.08,0.27,Corporate,Optimal
+1089,Resort Hotel,116,51,87,Mar,4,7,134.95,0.33,0.02,Direct,Underbooking
+1090,City Hotel,157,190,103,Sep,1,8,101.14,0.03,0.11,Corporate,Overbooking
+1091,Resort Hotel,185,130,279,Mar,1,8,152.7,0.3,0.22,Direct,Optimal
+1092,City Hotel,161,120,300,Jul,2,13,387.54,0.58,0.09,Online,Optimal
+1093,Resort Hotel,252,111,154,Jul,2,8,367.83,0.52,0.34,Online,Underbooking
+1094,Resort Hotel,113,203,213,Jan,0,6,375.45,0.3,0.11,Online,Overbooking
+1095,Resort Hotel,183,82,140,Jul,1,12,70.06,0.1,0.16,Offline,Underbooking
+1096,Resort Hotel,123,279,312,Sep,3,13,216.59,0.57,0.34,Offline,Overbooking
+1097,Resort Hotel,133,220,244,Jun,1,2,73.22,0.57,0.29,Travel Agent,Overbooking
+1098,Resort Hotel,285,132,27,Feb,0,2,168.22,0.19,0.23,Offline,Underbooking
+1099,Resort Hotel,111,312,318,Jan,0,11,151.88,0.05,0.29,Direct,Overbooking
+1100,Resort Hotel,182,100,152,May,3,3,320.29,0.18,0.22,Travel Agent,Underbooking
+1101,Resort Hotel,109,273,195,Dec,0,6,84.85,0.43,0.33,Direct,Overbooking
+1102,City Hotel,287,158,48,Aug,4,9,164.32,0.03,0.12,Offline,Underbooking
+1103,Resort Hotel,84,280,187,Jul,3,9,314.78,0.43,0.22,Direct,Overbooking
+1104,Resort Hotel,250,261,85,Dec,1,13,347.46,0.57,0.13,Online,Overbooking
+1105,City Hotel,206,299,201,Feb,2,3,144.92,0.15,0.16,Online,Overbooking
+1106,City Hotel,285,159,350,Sep,2,2,299.77,0.38,0.09,Travel Agent,Underbooking
+1107,City Hotel,147,117,100,May,0,6,359.71,0.16,0.03,Corporate,Optimal
+1108,Resort Hotel,286,202,191,Jun,3,1,122.27,0.54,0.16,Travel Agent,Optimal
+1109,Resort Hotel,95,128,118,Jan,0,2,93.84,0.29,0.28,Offline,Overbooking
+1110,Resort Hotel,161,343,256,Oct,1,12,360.9,0.18,0.27,Direct,Overbooking
+1111,City Hotel,258,333,11,Jun,2,1,381.85,0.15,0.25,Offline,Overbooking
+1112,City Hotel,268,284,208,Feb,4,11,244.57,0.51,0.3,Travel Agent,Overbooking
+1113,City Hotel,157,54,48,Jul,2,11,117.3,0.16,0.18,Corporate,Underbooking
+1114,City Hotel,219,284,130,Jan,3,9,317.6,0.53,0.2,Direct,Overbooking
+1115,City Hotel,291,305,363,Feb,3,9,391.34,0.1,0.2,Direct,Overbooking
+1116,Resort Hotel,89,304,30,Sep,4,7,162.77,0.03,0.02,Offline,Overbooking
+1117,Resort Hotel,192,139,173,Mar,2,10,345.36,0.46,0.23,Direct,Optimal
+1118,City Hotel,94,265,120,Oct,4,6,172.58,0.56,0.09,Direct,Overbooking
+1119,City Hotel,174,227,48,Sep,2,9,259.13,0.27,0.04,Online,Overbooking
+1120,City Hotel,259,211,347,May,2,7,362.76,0.33,0.27,Offline,Optimal
+1121,City Hotel,198,65,285,May,3,3,265.54,0.16,0.01,Corporate,Underbooking
+1122,City Hotel,178,186,215,Aug,3,3,145.19,0.35,0.33,Direct,Overbooking
+1123,Resort Hotel,274,144,357,May,3,2,355.81,0.09,0.16,Online,Underbooking
+1124,Resort Hotel,175,167,137,Dec,0,8,268.78,0.46,0.22,Offline,Optimal
+1125,Resort Hotel,187,125,210,Sep,2,9,154.35,0.13,0.25,Direct,Optimal
+1126,City Hotel,171,167,99,Mar,1,13,184.54,0.45,0.28,Direct,Optimal
+1127,Resort Hotel,225,231,7,Nov,3,13,347.37,0.39,0.03,Travel Agent,Overbooking
+1128,Resort Hotel,246,259,126,Sep,2,9,357.94,0.38,0.08,Direct,Overbooking
+1129,City Hotel,231,109,222,Feb,1,4,154.74,0.13,0.1,Corporate,Underbooking
+1130,Resort Hotel,257,222,186,Feb,4,12,389.87,0.54,0.12,Online,Optimal
+1131,City Hotel,285,76,144,Sep,0,11,139.23,0.12,0.31,Direct,Underbooking
+1132,City Hotel,205,105,284,Dec,0,11,69.98,0.2,0.05,Offline,Underbooking
+1133,Resort Hotel,153,85,67,Jun,3,7,369.45,0.09,0.2,Travel Agent,Underbooking
+1134,City Hotel,179,181,114,Oct,1,10,214.23,0.57,0.31,Travel Agent,Overbooking
+1135,City Hotel,126,211,125,Feb,2,1,191.9,0.14,0.16,Online,Overbooking
+1136,City Hotel,186,159,272,Feb,1,7,139.85,0.14,0.07,Corporate,Optimal
+1137,Resort Hotel,163,315,315,May,3,2,223.32,0.37,0.25,Offline,Overbooking
+1138,Resort Hotel,259,247,4,Apr,0,2,211.2,0.51,0.32,Travel Agent,Optimal
+1139,Resort Hotel,245,289,234,Aug,4,6,148.67,0.19,0.01,Direct,Overbooking
+1140,City Hotel,281,164,179,May,3,4,87.5,0.08,0.21,Travel Agent,Underbooking
+1141,City Hotel,130,146,84,Jun,1,8,331.67,0.34,0.31,Direct,Overbooking
+1142,Resort Hotel,276,83,261,Jun,0,12,343.45,0.33,0.11,Travel Agent,Underbooking
+1143,Resort Hotel,205,298,275,Feb,3,1,277.25,0.11,0.34,Corporate,Overbooking
+1144,Resort Hotel,232,269,75,May,1,8,319.6,0.01,0.12,Offline,Overbooking
+1145,Resort Hotel,106,303,102,Mar,0,8,139.75,0.11,0.17,Offline,Overbooking
+1146,City Hotel,168,223,264,Apr,2,3,104.63,0.5,0.18,Travel Agent,Overbooking
+1147,City Hotel,286,79,27,Feb,3,13,313.65,0.3,0.09,Direct,Underbooking
+1148,City Hotel,101,56,171,Apr,3,8,304.55,0.47,0.22,Online,Underbooking
+1149,City Hotel,87,239,308,Apr,3,13,75.02,0.41,0.19,Direct,Overbooking
+1150,City Hotel,96,56,113,Feb,0,13,89.8,0.57,0.11,Online,Underbooking
+1151,City Hotel,275,311,225,Oct,3,1,329.78,0.58,0.15,Offline,Overbooking
+1152,City Hotel,223,104,51,Jul,3,13,377.55,0.11,0.29,Offline,Underbooking
+1153,City Hotel,147,184,323,Feb,3,1,67.18,0.58,0.04,Direct,Overbooking
+1154,Resort Hotel,148,90,6,Sep,1,3,143.04,0.31,0.28,Travel Agent,Underbooking
+1155,City Hotel,280,64,22,Aug,0,1,91.85,0.59,0.28,Travel Agent,Underbooking
+1156,Resort Hotel,268,290,91,Apr,0,6,143.43,0.22,0.3,Online,Overbooking
+1157,City Hotel,146,328,67,Mar,3,1,237.78,0.38,0.31,Offline,Overbooking
+1158,Resort Hotel,149,261,277,Nov,1,3,75.57,0.12,0.1,Online,Overbooking
+1159,Resort Hotel,143,174,344,Aug,2,5,379.9,0.51,0.32,Online,Overbooking
+1160,Resort Hotel,185,69,292,Feb,1,7,156.48,0.2,0.12,Direct,Underbooking
+1161,Resort Hotel,176,202,210,Sep,4,3,236.61,0.16,0.33,Travel Agent,Overbooking
+1162,Resort Hotel,231,185,72,Jul,3,12,349.46,0.48,0.1,Travel Agent,Optimal
+1163,City Hotel,218,205,86,Mar,3,2,278.01,0.48,0.03,Offline,Optimal
+1164,City Hotel,90,295,107,Dec,0,5,366.77,0.06,0.05,Direct,Overbooking
+1165,Resort Hotel,128,196,277,Jul,0,12,121.36,0.55,0.31,Offline,Overbooking
+1166,City Hotel,266,279,185,Jun,0,3,204.89,0.47,0.09,Direct,Overbooking
+1167,City Hotel,128,313,114,Mar,0,9,371.83,0.5,0.29,Travel Agent,Overbooking
+1168,City Hotel,87,164,92,Aug,4,9,129.13,0.13,0.1,Offline,Overbooking
+1169,City Hotel,171,162,119,Aug,3,11,307.88,0.22,0.23,Travel Agent,Optimal
+1170,Resort Hotel,136,247,357,Aug,3,7,164,0.02,0.32,Offline,Overbooking
+1171,City Hotel,137,239,296,Sep,3,4,247.07,0.47,0.34,Offline,Overbooking
+1172,City Hotel,163,300,89,Nov,3,10,277.32,0.19,0.14,Offline,Overbooking
+1173,City Hotel,290,103,119,May,0,2,139.19,0.56,0.27,Online,Underbooking
+1174,City Hotel,224,262,93,Oct,4,1,207.37,0.55,0.12,Online,Overbooking
+1175,Resort Hotel,117,164,342,Feb,0,12,298.53,0.13,0.01,Offline,Overbooking
+1176,City Hotel,219,337,362,Sep,0,8,145.72,0.16,0.12,Online,Overbooking
+1177,City Hotel,261,234,319,Jan,4,5,397.99,0.17,0.19,Offline,Optimal
+1178,Resort Hotel,185,98,266,Apr,1,3,173.51,0.35,0.24,Travel Agent,Underbooking
+1179,City Hotel,111,195,131,Aug,3,10,79.74,0.15,0.05,Offline,Overbooking
+1180,Resort Hotel,172,305,277,Oct,2,6,96.95,0.06,0.13,Direct,Overbooking
+1181,Resort Hotel,268,110,346,Feb,4,9,180,0.54,0.21,Offline,Underbooking
+1182,Resort Hotel,131,128,294,Mar,0,13,106.46,0.28,0.29,Travel Agent,Optimal
+1183,City Hotel,278,229,222,Feb,1,1,244.81,0.04,0.17,Online,Optimal
+1184,City Hotel,157,107,278,Mar,1,11,293.45,0.2,0.01,Direct,Optimal
+1185,Resort Hotel,256,263,85,Jun,4,11,120.25,0.1,0.28,Travel Agent,Overbooking
+1186,City Hotel,287,148,2,Jun,2,2,207.57,0.22,0.14,Travel Agent,Underbooking
+1187,Resort Hotel,235,286,119,Jan,0,9,211.93,0.55,0.07,Offline,Overbooking
+1188,City Hotel,162,299,226,Jul,2,11,215.24,0.24,0.25,Direct,Overbooking
+1189,City Hotel,244,291,228,Jul,2,10,89.57,0.15,0.19,Travel Agent,Overbooking
+1190,Resort Hotel,221,65,13,Nov,4,6,265.16,0.1,0.01,Online,Underbooking
+1191,City Hotel,268,279,48,Oct,3,7,168.15,0.59,0.29,Online,Overbooking
+1192,Resort Hotel,175,175,18,Jan,0,11,150.38,0.55,0.14,Offline,Optimal
+1193,City Hotel,107,70,287,Dec,1,11,144.7,0.45,0.23,Travel Agent,Optimal
+1194,City Hotel,150,284,93,Aug,4,8,293.56,0.22,0.29,Online,Overbooking
+1195,City Hotel,283,116,160,Dec,2,2,277.4,0.28,0.25,Corporate,Underbooking
+1196,Resort Hotel,127,199,358,Oct,4,9,110.42,0.47,0.02,Online,Overbooking
+1197,Resort Hotel,244,247,279,May,0,10,157.98,0.5,0.34,Offline,Overbooking
+1198,Resort Hotel,84,246,96,Aug,2,11,217.95,0.16,0.27,Corporate,Overbooking
+1199,Resort Hotel,190,254,141,Jul,3,12,64.41,0.29,0.33,Offline,Overbooking
+1200,City Hotel,80,218,36,Aug,1,13,183.19,0.39,0.03,Corporate,Overbooking

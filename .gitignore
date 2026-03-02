@@ -1,0 +1,5 @@
+
+EDA/*.csv
+Feature_Engineering/*.csv
+.ipynb_checkpoints/
+.pkl/
