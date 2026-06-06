@@ -1,14 +1,17 @@
-.venv/
-__pycache__/
-*.pyc
-.env
+# Data files
 *.csv
-.ipynb_checkpoints
-digit-recognizer.zip
+EDA/*.csv
+Feature_Engineering/*.csv
 *.pkl
-.ipynb_checkpoints
-.venv/
-__pycache__/
+*.zip
+
+# Python
 *.pyc
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
 .env
-*.pkl
+.venv/
